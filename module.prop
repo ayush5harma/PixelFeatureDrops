@@ -1,6 +1,5 @@
 id=coral-prop
-name=Coral Prop
-version=v1
-versionCode=20
+name=Pixel 4XL Fingerprint
+version=v2
 author=ayuu5h
-description=Pixel4XL fingerprint for AOSP
+description=Pixel4XL device fingerprint for AOSP custom roms.
