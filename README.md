@@ -8,10 +8,10 @@ Enables:
 - Screen attention(keeps the screen on while you are looking at it by using the front-facing camera)
 - Rampant Ringer
 - Live Captions
-- Pokekon go live wallpaper.
+- Pokemon go live wallpaper.
 - UI overhaul for core google and some other apps.
 - Call Screening in countries where it is rolled out.
-- Google Photos unlimited quality backup and potrait filter to add bookeh effect on photos with faces.
-- Google Duo potrait mode and autoframing during video calls
-- 3D touch (https://www.androidauthority.com/google-pixel-4-force-touch-1089258/)  
- +other software features rolled out in future.
+- Google Photos unlimited quality backup and portrait filter to add bookeh effect on any photo with faces taken as normal before.
+- Google Duo portrait mode and autoframing during video calls.
+- 3D touch (https://www.androidauthority.com/google-pixel-4-force-touch-1089258/). 
+ + other software features rolled out in future.
