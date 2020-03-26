@@ -13,5 +13,5 @@ Enables:
 - Call Screening in countries where it is rolled out.
 - Google Photos unlimited quality backup and potrait filter to add bookeh effect on photos with faces.
 - Google Duo potrait mode and autoframing during video calls
-- 3D touch (https://www.androidauthority.com/google-pixel-4-force-touch-1089258/)
-+ other software features rolled out in future.
+- 3D touch (https://www.androidauthority.com/google-pixel-4-force-touch-1089258/)  
+ +other software features rolled out in future.
