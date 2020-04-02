@@ -2,7 +2,7 @@
 Magisk Module to enabled google's latest pixel iteration software features listed below by spoofing the device as Pixel 4 XL(codenamed Coral).  
 The module spoof using latest coral's device fingerprint.  
 Tested on custom roms : PixelExperience,EvolutionX and Havoc.  
-Magisk Module Developer Guide-https://topjohnwu.github.io/Magisk/guides.html  
+Magisk version required- 19+
 Enables:
 - The new google assistant
 - Screen attention(keeps the screen on while you are looking at it by using the front-facing camera)
