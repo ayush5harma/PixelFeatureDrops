@@ -2,7 +2,8 @@
 Magisk Module to enabled google's latest pixel iteration software features listed below by spoofing the device as Pixel 4 XL(codenamed Coral).  
 The module spoof using latest coral's device fingerprint.  
 Tested on custom roms : PixelExperience,EvolutionX and Havoc.  
-Magisk version required- 19+. 
+Magisk version required- 19+.  
+
 Also **patches CTS failure** in Safetynet test on rooted devices 
 
 Enables:
