@@ -15,6 +15,7 @@ Enables:
 - Pokemon go live wallpaper(Shown in Styles and Wallpapers):
 - UI overhaul for core google and some other apps.(enables by itself)
 - Call Screening in countries where it is rolled out.
+- AR Mode in google maps in countries where it's available.
 - Google Photos unlimited quality backup and portrait filter to add bookeh effect on any photo with faces taken as normal before.(enables by itself)
 - Google Duo portrait mode and autoframing during video calls.(enables by itself)
 - 3D touch (https://www.androidauthority.com/google-pixel-4-force-touch-1089258/). 
