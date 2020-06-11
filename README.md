@@ -13,7 +13,7 @@ After installing module clean Google app's data thereby launching assistant will
 - AR Core (via playstore)
 - Rampant Ringer (check Sounds->Vibration in settings post module installation to enable)
 - Live Caption (check Sounds-> Live Caption post installation)
-- Pokemon go live wallpaper (Shown in Styles and Wallpapers):
+- Pokemon go live wallpaper (Shown in Styles and Wallpapers)
 - UI overhaul for core google and some other apps.(enables by itself)
 - Call Screening in countries where it is rolled out.(enables by itself)
 - AR Mode in google maps in countries where it's available.(enables by itself)  
