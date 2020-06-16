@@ -2,17 +2,21 @@
 Magisk Module to enable google's latest pixel iteration software features listed below by spoofing the device as Pixel 4 XL(codenamed Coral).  
 The module spoof using latest coral's device fingerprint.  
 ## Requirements:
-*Custom roms* : PixelExperience, EvolutionX and Havoc. (Should also work on any other custom rom using pixel's system UI with gapps installed).  
+*Tested Custom roms* : PixelExperience(PE and PE plus), EvolutionX , Havoc, ParanoidAndoid and AOSiP Derpfest.   
+(Should also work on any other custom rom using pixel's system UI with gapps installed).    
+
 *Device*: any  
 *Magisk version*: 19+
 
 *Enables*:
 - The new google assistant  
-Make sure system language is set to English(US).
-After installing module clean Google app's data thereby launching assistant will ask to download additional update for new assistant.
+Make sure system language is set to English(US).   
+After installing module clean Google app's data thereby launching assistant will ask to download additional update for new assistant.  
+Note: NgaResources is required for downloading the required data.Its mostly preinstalled but if unable to download resources try installing NgaResources.apk from here :https://drive.google.com/file/d/1fTymlp9KaeTinK2D_UqAJUmaGwexeEz-/view    
 - AR Core (via playstore)
 - Rampant Ringer (check Sounds->Vibration in settings post module installation to enable)
-- Live Caption (check Sounds-> Live Caption post installation)
+- Live Caption (check Sounds-> Live Caption post installation)  
+Note: NgaResources is required for downloading the required data.Its mostly preinstalled but if unable to download resources try installing NgaResources.apk from here :https://drive.google.com/file/d/1fTymlp9KaeTinK2D_UqAJUmaGwexeEz-/view    
 - Pokemon go live wallpaper (Shown in Styles and Wallpapers)
 - UI overhaul for core google and some other apps.(enables by itself)
 - Call Screening in countries where it is rolled out.(enables by itself)
@@ -28,4 +32,3 @@ Make sure to use gcam
 
 ## Instructions:
 Check the security patch level of the aforementioned custom ROM's and flash the corresponding module zip from release section via magisk.
-
