@@ -17,16 +17,19 @@ Note: NgaResources is required for downloading the required data.Its mostly prei
 - Rampant Ringer (check Sounds->Vibration in settings post module installation to enable)
 - Live Caption (check Sounds-> Live Caption post installation)  
 Note: NgaResources is required for downloading the required data.Its mostly preinstalled but if unable to download resources try installing NgaResources.apk from here :https://drive.google.com/file/d/1fTymlp9KaeTinK2D_UqAJUmaGwexeEz-/view    
-- Pokemon go live wallpaper (Shown in Styles and Wallpapers)
-- UI overhaul for core google and some other apps.(enables by itself)
+- Pokémon go live wallpaper (Shown in Styles and Wallpapers)  
+Note: If not shown try installing pokemon wavehello from playstore post module install and then open styles and wallpapers from homescreen and check under come alive section for available Pokémon live wallpaper download.Wavehello app can be then uninstalled.
+- UI overhaul for core google and some other apps.(enables by itself)   
+Removes the black strip in navbar while using gboard, extending gboard all way up to the pill and other UI changes in google and non google apps that are rolled out for pixel with time.
 - Call Screening in countries where it is rolled out.(enables by itself)
+Note:If not shown by itself in countries with this feature is rolled out, try clearing dialer data and then check inside dialer settings->Call screen to download resource and enable. 
 - AR Mode in google maps in countries where it's available.(enables by itself)  
-Tap Directions, make sure you’re on the walking tab, and you should see a button next to the Start button that says Live View.
+Note:Tap Directions, make sure you’re on the walking tab, and you should see a button next to the Start button that says Live View.
 - Google Photos portrait filter to add bookeh effect on any photo with faces taken as normal before.(enables by itself)  
-Make sure to use gcam
+Note:Make sure to use gcam
 - Google Duo portrait mode and autoframing during video calls.(enables by itself)
-- 3D touch mimics on pixel launcher. 
-- Messages RCS (via Google messages app)
+- <strike>3D touch mimics</strike>. (Not yet rolled out)
+- <strike>Messages RCS</strike> (rolled out for all devices)
 - Rules in settings that help automate changes (Settings->System)
 - <s>Screen attention</s> (keeps the screen on while you are looking at it by using the front-facing camera)(no longer works as code removed from custom rom sources, works in Feb and March builds of mentioned custom rom)
 
