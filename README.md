@@ -18,7 +18,6 @@ Note: NgaResources is required for downloading the required data.Its mostly prei
 - Live Caption (check Sounds-> Live Caption post installation)  
 Note: NgaResources is required for downloading the required data.Its mostly preinstalled but if unable to download resources try installing NgaResources.apk from here :https://drive.google.com/file/d/1fTymlp9KaeTinK2D_UqAJUmaGwexeEz-/view    
 - Pokémon go live wallpaper (Shown in Styles and Wallpapers)  
-Note: If not shown try installing pokemon wavehello from playstore post module install and then open styles and wallpapers from homescreen and check under come alive section for available Pokémon live wallpaper download.Wavehello app can be then uninstalled.
 - UI overhaul for core google and some other apps.(enables by itself)   
 Removes the black strip in navbar while using gboard, extending gboard all way up to the pill and other UI changes in google and non google apps that are rolled out for pixel with time.
 - Call Screening in countries where it is rolled out.(enables by itself)
