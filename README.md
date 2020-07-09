@@ -1,6 +1,6 @@
 # P4XLProps
 Magisk Module to enable google's latest pixel iteration software features listed below by spoofing the device as Pixel 4 XL (codenamed Coral).  
-The module spoof using latest coral's device fingerprint.   
+The module spoof using latest coral's device fingerprint taken from https://git.rip/dumps/.   
 Passes Safetynet (read Instructions).
 ## Requirements:
 *Tested Custom roms* : PixelExperience(PE and PE plus), EvolutionX , Havoc, ParanoidAndoid and AOSiP Derpfest.   
