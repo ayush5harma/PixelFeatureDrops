@@ -3,7 +3,6 @@ ro.com.google.ime.theme_id=5
 ro.com.google.ime.height_ratio=1.0
 ro.com.google.ime.bs_theme=true
 ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
-persist.rcs.supported=1
 ro.product.model=Pixel 4 XL
 ro.product.brand=google
 ro.product.name=coral
@@ -73,3 +72,6 @@ ro.product.odm.device=coral
 ro.product.odm.manufacturer=Google
 ro.product.odm.model=Pixel 4 XL
 ro.product.odm.name=coral
+
+persist.rcs.supported=1
+persist.vendor.camera.HAL3.enabled 1
