@@ -17,6 +17,7 @@ Passes Safetynet (read Instructions).
 Make sure system language is set to English(US) or English (UK).   
 After installing module, clean Google app's data thereby launching assistant will ask to download additional update to enable the new assistant.
 
+- **Continued Conversation** Go to google app > More > Settings > Google Assistant > Assistant > Continued Conversation . Turn on phone.
 - **Google Duo portrait mode and autoframing during video calls** (enables by itself).
 
 - **Google Photos portrait filter** to add bookeh effect on any photo with faces taken as normal before. (doesn't work with all gcams)  
