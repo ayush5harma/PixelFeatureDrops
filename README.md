@@ -42,7 +42,7 @@ Go to google app > More > Settings > Google Assistant > Assistant > Continued Co
 
 - **Pokémon go live wallpaper** (Shown in Styles and Wallpapers) (PE and PE plus) (sometimes it is needed to install Pokémon wavehello app from playstore then it shows download option of Pokémon live wallpaper inside Styles & Wallpapers).  
 
-**Note for PE and PE Plus users** - If unable to download the data required for enabling assistant,live caption or Pokémon live wallpaper, it is because of missing ngaresources.apk in recent builds which can be downloaded and installed from this link -  https://www.dropbox.com/s/ed10513o4hke8ux/NgaResources.apk?dl=0  
+**Note for some PE and PE Plus users** - If unable to download the data required for enabling assistant,live caption or Pokémon live wallpaper, it is because of missing ngaresources.apk in your build which can be downloaded and installed from this link -  https://www.dropbox.com/s/ed10513o4hke8ux/NgaResources.apk?dl=0  
 
 
 
