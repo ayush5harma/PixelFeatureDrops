@@ -18,7 +18,8 @@ Make sure system language is set to English(US) or English (UK).
 After installing module, clean Google app's data thereby launching assistant will ask to download additional update to enable the new assistant.
 
 - **Continued Conversation** 
-Go to google app > More > Settings > Google Assistant > Assistant > Continued Conversation . Turn on phone.
+Go to google app > More > Settings > Google Assistant > Assistant > Continued Conversation . Turn on phone.  
+
 - **Google Duo portrait mode and autoframing during video calls** (enables by itself).
 
 - **Google Photos portrait filter** to add bookeh effect on any photo with faces taken as normal before. (doesn't work with all gcams)  
@@ -33,7 +34,7 @@ Go to google app > More > Settings > Google Assistant > Assistant > Continued Co
 
 - **UI overhaul** for core google and some other apps. (enables by itself).  
 
-- **Dark mode in google docs, sheets, slides, playbooks etc**.  
+- **Dark mode in google maps, docs, sheets, slides, playbooks etc**.  
 
 
 
