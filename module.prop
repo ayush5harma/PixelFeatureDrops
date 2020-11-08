@@ -1,5 +1,5 @@
 id = P4XLProps
 name = Pixel 4XL Fingerprint
-version = r1
+version = r2
 author = ayush5harma
 description = Pixel4XL device fingerprint for AOSP custom roms.
