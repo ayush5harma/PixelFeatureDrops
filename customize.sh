@@ -1,1 +1,1 @@
-ui_print "- Installing, Pixel 4 XL November Fingerprint"
+ui_print "- Installing, Pixel 5 Fingerprint"
