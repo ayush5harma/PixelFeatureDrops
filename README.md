@@ -39,14 +39,16 @@ Note: If not shown by itself in countries with this feature is rolled out, try c
 - **AR Mode in google maps** in countries where it's available. (enables by itself)  
 Note: Tap Directions, make sure you’re on the walking tab, and you should see a button next to the Start button that says Live View.  
 
-
-
-
-## Instructions:
+## Instructions for installation :
 - Check the security patch level of the aforementioned custom ROMs and flash the corresponding module zip from release section via magisk.
-- Turn on magisk hide and hide for Google PlayServices, Playstore, Google Service Framework and Carrier Services. Besides also hide magisk manager.
+- Check for security patch date under *About Phone -> Android Version* , if it's say *December 5, 2020* then install *PixelFeatureDrop-December* from the [release](https://github.com/ayush5harma/PixelFeatureDrops/releases) section
 
-## Instructions for Edxposed Users:
+## Instructions for Safetynet :   
+Make sure to install correct release as mentioned in *Instructions for installation* otherwise it will lead to CTS Failure in safetynet
+Beside that the following steps are to be taken in general when using magisk to pass safetynet:
+- Turn on magisk hide and hide for Google PlayServices, Playstore, Google Service Framework and Carrier Services. Besides also hide magisk manager to pass safetynet.  
+
+If using edxposed also follow the below steps to ensure safetynet pass:
 - Use the latest Edxposed build with AppList mode enabled and blacklist Google PlayServices, Playstore, Google Service Framework and Carrier Services  
 - Turn on riru hide mechanism by creating empty file *enable_hide* inside /data/adb/riru and reboot. Use riru apk to cross-check if hide is enabled.  
   
