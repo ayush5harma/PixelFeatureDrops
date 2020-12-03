@@ -39,8 +39,8 @@ Note: If not shown by itself in countries with this feature is rolled out, try c
 Note: Tap Directions, make sure you’re on the walking tab, and you should see a button next to the Start button that says Live View.  
 
 ## Instructions for installation :
-- Check the security patch level of the aforementioned custom ROMs and flash the corresponding module zip from release section via magisk.
-- Check for security patch date under *About Phone -> Android Version* , if it's say *December 5, 2020* then install *PixelFeatureDrop-December* from the [release](https://github.com/ayush5harma/PixelFeatureDrops/releases) section
+- Check the security patch level of the aforementioned custom ROMs and flash the corresponding module zip from [release](https://github.com/ayush5harma/PixelFeatureDrops/releases)  section via magisk. 
+( *Check for security patch date under *About Phone -> Android Version* via settings , if it's say *December 5, 2020* then install *PixelFeatureDrop-December* from the [release](https://github.com/ayush5harma/PixelFeatureDrops/releases) section* )
 
 ## Instructions for Safetynet :   
 Make sure to install correct release as mentioned in *Instructions for installation* otherwise it will lead to CTS Failure in safetynet
