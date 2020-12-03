@@ -1,5 +1,5 @@
-# P4XLProps
-Magisk Module to enable google's latest pixel iteration software features listed below by spoofing the device as Pixel 4 XL (codenamed Coral).  
+# P5Props
+Magisk Module to enable google's latest pixel iteration software features listed below by spoofing the device as Pixel 5 (codenamed Redfin).  
 The module spoof using latest coral's device fingerprint taken from https://git.rip/dumps/.   
 Passes Safetynet (read Instructions at the end).
 ## Requirements:
@@ -32,10 +32,7 @@ HAL3 version enables :
 
 - **Google Play Services for AR  and Playground(AR Stickers)**. (becomes installable via playstore in budget range smartphones)
 
- In budget smartphones
-
-
-
+ in budget smartphones
 
 *The following features have been tested working on latest PixelExperience(PE and PE plus)*
 
