@@ -13,37 +13,26 @@ Passes Safetynet (read Instructions at the end).
 
 *The following features have been tested working on latest PixelExperience(PE and PE plus), EvolutionX , Havoc, ParanoidAndoid and AOSiP Derpfest and should also work on any other custom rom using pixel's system UI with gapps installed.*
 
-- **Adaptive Sound**  
-https://www.xda-developers.com/adaptive-sound-automatic-speaker-eq-google-pixel-5/  
-Toggle appears inside Settings-> Sound-> Adaptive Sound
-- **Live Caption Improvements**
-- **Flip to Silence**  
-Google Phone->Settings->Advanced. Toggle on Flip to Silence
 
-- **Google assistant 2.0**  
-Make sure system language is set to English(US) or English (UK).   
-After installing module, clean Google app's data thereby launching assistant will ask to download additional update to enable the new assistant.
+| Feature Drop  | Steps to enable      | Sidenote  |
+| ------------- |:-------------:| -----:|
+| **Adaptive Sound**       | Toggle inside Settings-> Sound-> Adaptive Sound | since December |
+|**Google assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean Google app's data thereby launching assistant will ask to download additional update to enable the new assistant | Install [NGAResources]( https://www.dropbox.com/s/ed10513o4hke8ux/NgaResources.apk?dl=0 ) if not present in the Build|
+|**Google Photos portrait filter**|Take portrait shot with human face and open it for edit inside google photos.You'll see updating editor in the notification which will download additional update for portrait filter.If not so read the sidenote |If unable to get portrait filter on photos then must use [*Portrait light For any device* magisk module by Kingsmanz](https://www.dropbox.com/s/kwej83yvefn8znp/Portrait%20light%20For%20any%20device.zip?dl=0) alongside|
+|**Google Duo portrait mode and autoframing during video calls**|Enables by itself and available during videocall as option bubbles| |
+|**Live Caption Improvements**     | Enables by itself  with additionally downloaded package for live Caption.Toggle Sounds-> Live Caption  |   since December |
+|**Flip to Silence** | Google Phone->Settings->Advanced. Toggle on Flip to Silence  |  |
+|**Rampant Ringer**|Sounds-> Vibration.Toggle First Vibrate then ring gradually| |
+|**UI overhaul** for core google and some other apps|Enables by itself such as gboard consistent new design, dark mode in google maps, docs, sheets, slides, playbooks etc | |
 
-- **Continued Conversation** 
-Go to google app-> More -> Settings -> Google Assistant -> Assistant -> Continued Conversation . Turn on phone.  
 
-- **Google Photos portrait filter** to add bookeh effect on any photo with faces taken as normal before.   
+HAL3 version enables :
 
-**Note for some**- If unable to get portrait filter on photos then must use [*Portrait light For any device* magisk module by Kingsmanz](https://www.dropbox.com/s/kwej83yvefn8znp/Portrait%20light%20For%20any%20device.zip?dl=0)
-
-- **Google Duo portrait mode and autoframing during video calls** (enables by itself).
-
-- **Camera 2 API Level 3** (module v7.1+)
-
-- **Rampant Ringer** (check Sounds-> Vibration in settings post module installation to enable).
+- **Camera 2 API Level 3** 
 
 - **Google Play Services for AR  and Playground(AR Stickers)**. (becomes installable via playstore in budget range smartphones)
 
-- **Live Caption** (check Sounds-> Live Caption post installation).   
-
-- **UI overhaul** for core google and some other apps. (enables by itself).  
-
-- **Dark mode in google maps, docs, sheets, slides, playbooks etc**.  
+ In budget smartphones
 
 
 
@@ -53,7 +42,11 @@ Go to google app-> More -> Settings -> Google Assistant -> Assistant -> Continue
 - **Pokémon go live wallpaper** (Shown in Styles and Wallpapers) (PE and PE plus) (sometimes it is needed to install Pokémon wavehello app from playstore then it shows download option of Pokémon live wallpaper inside Styles & Wallpapers).  
 
 **Note for some PE and PE Plus users** - If unable to download the data required for enabling assistant,live caption or Pokémon live wallpaper, it is because of missing ngaresources.apk in your build which can be downloaded and installed from this link -  https://www.dropbox.com/s/ed10513o4hke8ux/NgaResources.apk?dl=0  
-
+  
+  
+For other ROM users with gapps builds :
+- Debloat preinstalled Pixel Live Wallpapers using *Debloater* magisk module
+- Install [Pokemon Sidekick wallpaper port by Pranav Panday] (https://techtics.xyz/2019/11/06/pokemon-sidekick)
 
 
 
