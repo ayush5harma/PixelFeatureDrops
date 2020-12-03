@@ -1,9 +1,9 @@
-# P5Props
+# P5Props - Magisk Module for Pixel Feature Drops
 <p align="center">
   <img src="https://user-images.githubusercontent.com/47772616/101059258-12c1ac80-35b4-11eb-9138-028dbcafb629.png" />
 </p>
 
-<p align="center"> Magisk Module to enable google's latest pixel feature drops on Custom ROMs.</h2></p> 
+<p align="center"> </h2></p> 
 
 ## Requirements:
 - Android R | *Device*: any  | *Magisk version*: 21+ | Custom ROM: One that uses pixel's system UI with gapps installed such as PixelExperience.  
