@@ -1,7 +1,7 @@
 # P4XLProps
 Magisk Module to enable google's latest pixel iteration software features listed below by spoofing the device as Pixel 4 XL (codenamed Coral).  
 The module spoof using latest coral's device fingerprint taken from https://git.rip/dumps/.   
-Passes Safetynet (read Instructions).
+Passes Safetynet (read Instructions at the end).
 ## Requirements:
 *Tested Custom roms* : PixelExperience(PE and PE plus), EvolutionX , Havoc, ParanoidAndoid and AOSiP Derpfest.   
 (Should also work on any other custom rom using pixel's system UI with gapps installed).    
@@ -13,12 +13,19 @@ Passes Safetynet (read Instructions).
 
 *The following features have been tested working on latest PixelExperience(PE and PE plus), EvolutionX , Havoc, ParanoidAndoid and AOSiP Derpfest and should also work on any other custom rom using pixel's system UI with gapps installed.*
 
+- **Adaptive Sound**  
+https://www.xda-developers.com/adaptive-sound-automatic-speaker-eq-google-pixel-5/  
+Toggle appears inside Settings-> Sound-> Adaptive Sound
+- **Live Caption Improvements**
+- **Flip to Silence**  
+Google Phone->Settings->Advanced. Toggle on Flip to Silence
+
 - **Google assistant 2.0**  
 Make sure system language is set to English(US) or English (UK).   
 After installing module, clean Google app's data thereby launching assistant will ask to download additional update to enable the new assistant.
 
 - **Continued Conversation** 
-Go to google app > More > Settings > Google Assistant > Assistant > Continued Conversation . Turn on phone.  
+Go to google app-> More -> Settings -> Google Assistant -> Assistant -> Continued Conversation . Turn on phone.  
 
 - **Google Duo portrait mode and autoframing during video calls** (enables by itself).
 
@@ -60,4 +67,10 @@ Note: Tap Directions, make sure you’re on the walking tab, and you should see 
 
 
 ## Instructions:
-Check the security patch level of the aforementioned custom ROMs and flash the corresponding module zip from release section via magisk.
+- Check the security patch level of the aforementioned custom ROMs and flash the corresponding module zip from release section via magisk.
+- Turn on magisk hide and hide for Google PlayServices, Playstore, Google Service Framework and Carrier Services. Besides also hide magisk manager.
+
+## Instructions for Edxposed Users:
+- Use the latest Edxposed build with AppList mode enabled and blacklist Google PlayServices, Playstore, Google Service Framework and Carrier Services  
+- Turn on riru hide mechanism by creating empty file *enable_hide* inside /data/adb/riru and reboot. Use riru apk to cross-check if hide is enabled.  
+- Reboot
