@@ -51,4 +51,4 @@ If using edxposed also follow the below steps to ensure safetynet pass:
 - Use the latest Edxposed build with AppList mode enabled and blacklist Google PlayServices, Playstore, Google Service Framework and Carrier Services  
 - Turn on riru hide mechanism by creating empty file *enable_hide* inside /data/adb/riru and reboot. Use riru apk to cross-check if hide is enabled.  
   
-**Credits** : The system files and prop values are taken and updated from https://git.rip/dumps/google/redfin .  
+**Credits** : The system files and prop values are taken and updated from android dump at  https://git.rip/dumps/google/redfin .  
