@@ -3,15 +3,15 @@ Magisk Module to enable google's latest pixel iteration software features listed
 The module spoof using latest coral's device fingerprint taken from https://git.rip/dumps/.   
 Passes Safetynet (read Instructions at the end).
 ## Requirements:
-*Tested Custom roms* : PixelExperience(PE and PE plus), EvolutionX , Havoc, ParanoidAndoid and AOSiP Derpfest.   
-(Should also work on any other custom rom using pixel's system UI with gapps installed).    
+- Android R
+- Custom ROM using pixel's system UI with gapps installed.
+  *Some Tested Custom ROMs* : PixelExperience(PE and PE plus), EvolutionX, Havoc, ParanoidAndoid and AOSiP Derpfest.   
+- *Device*: any  
+- *Magisk version*: 21+
 
-*Device*: any  
-*Magisk version*: 19+
 
 
-
-*The following features have been tested working on latest PixelExperience(PE and PE plus), EvolutionX , Havoc, ParanoidAndoid and AOSiP Derpfest and should also work on any other custom rom using pixel's system UI with gapps installed.*
+*The following features should enable on any other custom rom using pixel's system UI with gapps installed post prop spoofing.*
 
 
 | Feature Drop  | Steps to enable      | Sidenote  |
