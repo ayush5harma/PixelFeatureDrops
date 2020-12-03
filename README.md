@@ -3,9 +3,8 @@
   <img src="https://user-images.githubusercontent.com/47772616/101059258-12c1ac80-35b4-11eb-9138-028dbcafb629.png" />
 </p>
 
-<p align="center">Magisk Module to enable google's latest pixel feature drops on Custom ROMs.</p> 
+<p align="center"> Magisk Module to enable google's latest pixel feature drops on Custom ROMs.</h2></p> 
 
-Passes Safetynet (read Instructions at the end).
 ## Requirements:
 - Android R | *Device*: any  | *Magisk version*: 21+ | Custom ROM: One that uses pixel's system UI with gapps installed such as PixelExperience.  
   *Some tested custom ROMs* : PixelExperience(PE and PE plus); EvolutionX;  Havoc;  ParanoidAndoid; and AOSiP Derpfest.   
@@ -52,4 +51,4 @@ If using edxposed also follow the below steps to ensure safetynet pass:
 - Use the latest Edxposed build with AppList mode enabled and blacklist Google PlayServices, Playstore, Google Service Framework and Carrier Services  
 - Turn on riru hide mechanism by creating empty file *enable_hide* inside /data/adb/riru and reboot. Use riru apk to cross-check if hide is enabled.  
   
-The system prop values are taken taken from https://git.rip/dumps/.   
+**Credits** : The system files and prop values are taken and updated from https://git.rip/dumps/google/redfin .  
