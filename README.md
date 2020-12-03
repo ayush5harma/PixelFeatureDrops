@@ -27,9 +27,11 @@ After installing module, clean Google app's data thereby launching assistant wil
 - **Continued Conversation** 
 Go to google app-> More -> Settings -> Google Assistant -> Assistant -> Continued Conversation . Turn on phone.  
 
-- **Google Duo portrait mode and autoframing during video calls** (enables by itself).
+- **Google Photos portrait filter** to add bookeh effect on any photo with faces taken as normal before.   
 
-- **Google Photos portrait filter** to add bookeh effect on any photo with faces taken as normal before. (doesn't work with all gcams)  
+**Note for some**- If unable to get portrait filter on photos then must use [*Portrait light For any device* magisk module by Kingsmanz](https://www.dropbox.com/s/kwej83yvefn8znp/Portrait%20light%20For%20any%20device.zip?dl=0)
+
+- **Google Duo portrait mode and autoframing during video calls** (enables by itself).
 
 - **Camera 2 API Level 3** (module v7.1+)
 
@@ -73,4 +75,3 @@ Note: Tap Directions, make sure you’re on the walking tab, and you should see 
 ## Instructions for Edxposed Users:
 - Use the latest Edxposed build with AppList mode enabled and blacklist Google PlayServices, Playstore, Google Service Framework and Carrier Services  
 - Turn on riru hide mechanism by creating empty file *enable_hide* inside /data/adb/riru and reboot. Use riru apk to cross-check if hide is enabled.  
-- Reboot
