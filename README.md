@@ -33,7 +33,7 @@ HAL3 version enables the following for budget smartphones:
 
 *The following features have not been tested but should enable themselves in countries where they are rolled out by Google*
 
-- **Call Screen ,Hold For Me and other features powered by Google's Duplex Technology ** in countries where it is rolled out. (enables by itself)  
+- **Call Screen ,Hold For Me and other features powered by Google's Duplex Technology** in countries where it is rolled out. (enables by itself)  
 Note: If not shown by itself in countries with this feature is rolled out, try clearing dialer data and then check inside dialer settings->Call screen to download resource and enable. 
 
 - **AR Mode in google maps** in countries where it's available. (enables by itself)  
