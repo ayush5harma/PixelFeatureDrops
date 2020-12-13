@@ -23,7 +23,7 @@
 |**Rampant Ringer**|Sounds-> Vibration.Toggle First Vibrate then ring gradually| |
 |**UI overhaul for core google and some other apps**|Enables by itself such as gboard consistent new design, dark mode in google maps, docs, sheets, slides, playbooks etc | |
 |**Pokémon Sidekick and other New wallpapers**|Shown in Come Alive and other sections in  Styles and Wallpapers in PE and PE Plus |There are [ports](https://forum.xda-developers.com/m/pranav-pandey.3962236/#recent-content) of the same on XDA by recognized developer Pranav Panday|  
-|Now Playing Playlist export|In your Now Playing history, you can select the songs you saved and export them to a playlist in YouTube Music.|	Install [Pixel Ambient Services ](https://play.google.com/store/apps/details?id=com.google.intelligence.sense&hl=en_IN&gl=US) from playstore|
+|**Now Playing Playlist export**|In your Now Playing history, you can select the songs you saved and export them to a playlist in YouTube Music.|	Install [Pixel Ambient Services ](https://play.google.com/store/apps/details?id=com.google.intelligence.sense&hl=en_IN&gl=US) from playstore|
 
 
 HAL3 version enables the following for budget smartphones:
