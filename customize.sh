@@ -1,1 +1,1 @@
-ui_print "- Installing, Pixel 5 Fingerprint"
+ui_print "- Installing, PixelFeatureDrops"
