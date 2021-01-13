@@ -15,6 +15,7 @@
 | Feature Drop  | Steps to enable      | Sidenote  |
 | ------------- |:-------------:| -----:|
 | **Adaptive Sound**       | Toggle inside Settings-> Sound-> Adaptive Sound | Available since December |
+| **Adaptive Charging** | Toggle inside adaptive battery | Available since December |
 |**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean the Google app's data,  thereby launching assistant will ask for the download of additional update to enable the new assistant.For Continued Coversation open google app > More > Settings > Google Assistant > Assistant > Continued Conversation . Turn on the toggle for phone. | Install [NGAResources]( https://www.dropbox.com/s/ed10513o4hke8ux/NgaResources.apk?dl=0 ) if not present in the gapps build already (rarely the case).|
 |**Google Photos portrait filter**|Take portrait shot with human face and open it for edit inside google photos app.Additional update for editor will begin to download for the portrait filter.||
 |**Google Duo portrait mode, autoframing during video calls and screen sharing in group calls**|Enables by itself and available during videocall in the option bubbles| |
