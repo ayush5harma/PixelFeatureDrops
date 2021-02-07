@@ -50,7 +50,8 @@ Make sure to install correct release as mentioned in *Instructions for installat
 Besides that, the following steps are to be taken in general when using magisk to pass safetynet:
 - Turn on magisk hide and hide for *Google PlayServices, Playstore, Google Service Framework and Carrier Services*. Besides also hide magisk manager to pass safetynet.    
 
-- **If safetynet fails with hardware attestation** use [Kdrag0n's Safetynet Fix](https://github.com/kdrag0n/safetynet-fix) which makes safetynet check to fall back to basic attestation.([safetynet-fix-v1.0.0.zip](https://github.com/ayush5harma/PixelFeatureDrops/files/5810176/safetynet-fix-v1.0.0.zip))
+- **If safetynet fails with hardware attestation** use [Kdrag0n's Safetynet Fix](https://github.com/kdrag0n/safetynet-fix/releases) which makes safetynet check to fall back to basic attestation.  
+[safetynet-fix-v1.1.1.zip](https://github.com/ayush5harma/PixelFeatureDrops/files/5938557/safetynet-fix-v1.1.1.zip)
 
 If using edxposed also follow the below steps to ensure that the safetynet passes:
 - Use the latest Edxposed build with AppList mode enabled and blacklist *Google PlayServices, Playstore, Google Service Framework and Carrier Services* .
