@@ -6,10 +6,10 @@
 <p align="center"> </h2></p> 
 
 ## Requirements:
-- Android R | *Device*: any  | *Magisk version*: 21+ | Custom ROM: One that uses pixel's system UI with gapps installed such as PixelExperience.  
+- Android R | *Device*: any  | *Magisk version*: 21+ | Custom ROM: AOSP based that uses pixel's system UI with gapps installed such as PixelExperience.  
   *Some tested custom ROMs* : PixelExperience(PE and PE plus); EvolutionX;  Havoc;  ParanoidAndoid; and AOSiP Derpfest.   
   
-*The following features should enable on any other custom ROM using pixel's system UI with gapps installed post module installation.*
+*The following features should enable on any other AOSP custom ROM using pixel's system UI with gapps installed post module installation.*
 
 
 | Feature Drop  | Steps to enable      | Sidenote  |
