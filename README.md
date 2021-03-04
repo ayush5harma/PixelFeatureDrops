@@ -14,9 +14,12 @@
 
 | Feature Drop  | Steps to enable      | Sidenote  |
 | ------------- |:-------------:| -----:|
+| **Shareable Recorder** | Recorder app enables automatical backup to Google Drive, and access through a new recorder.google.com web app. | Aavilable since March.Works in English only |
+| **Gboard Smart Compose** | Enables by itself using GBoard in selected messaging Apps. | Available since March.Works when set to English(US) only. |
+| **Google Fit heart and respiratory monitoring** | Enables by itself in Google Fit | Available since March.Heart rate measure require Pixel's with back camera sensor for measurement.Respiratory measurement works in all using front camera. |
 | **Adaptive Sound**       | Toggle inside Settings-> Sound-> Adaptive Sound | Available since December |
 | **Adaptive Charging** | Toggle inside adaptive battery | Available since December |
-|**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean the Google app's data,  thereby launching assistant will ask for the download of additional update to enable the new assistant.For Continued Coversation open google app > More > Settings > Google Assistant > Assistant > Continued Conversation . Turn on the toggle for phone. | Install [NGAResources]( https://www.dropbox.com/s/ed10513o4hke8ux/NgaResources.apk?dl=0 ) if not present in the gapps build already (rarely the case).|
+|**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean the Google app's data,  thereby launching assistant will ask for the download of additional update to enable the new assistant.For Continued Coversation open google app > More > Settings > Google Assistant > Assistant > Continued Conversation . Turn on the toggle for phone. | Install [NGAResources]( https://www.dropbox.com/s/ed10513o4hke8ux/NgaResources.apk?dl=0 ) if not present in the gapps build already (rarely the case).If *Google assistant compact UI not showing*- set the language of the assistant to English(United States) and English(United States) only.The new google assistant doesn't have bilingual functionality yet unless both those languages are supported.|
 |**Google Photos portrait filter**|Take portrait shot with human face and open it for edit inside google photos app.Additional update for editor will begin to download for the portrait filter.||
 |**Google Duo portrait mode, autoframing during video calls and screen sharing in group calls**|Enables by itself and available during videocall in the option bubbles| |
 |**Live Caption Improvements**     | Toggle Sounds-> Live Caption  |   Improvements since December |
@@ -39,6 +42,8 @@ Note: If not shown by itself in countries with this feature is rolled out, try c
 
 - **AR Mode in google maps** in countries where it's available. (enables by itself)  
 Note: Tap Directions, make sure you’re on the walking tab, and you should see a button next to the Start button that says Live View.  
+
+- **Pixel Stand Exclusive Features** 
 
 
 ## Instructions for installation :
