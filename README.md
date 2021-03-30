@@ -14,7 +14,7 @@
 
 | Feature Drop  | Steps to enable      | Sidenote  |
 | ------------- |:-------------:| -----:|
-| **Shareable Recorder** | Recorder app enables automatical backup to Google Drive, and access through a new recorder.google.com web app. | Aavilable since March.Works in English only |
+| **Shareable Recorder** | Recorder app enables automatical backup to Google Drive, and access through a new recorder.google.com web app. | Available since March.Works in English only |
 | **Gboard Smart Compose** | Enables by itself using GBoard in selected messaging Apps. | Available since March.Works when set to English(US) only. |
 | **Google Fit heart and respiratory monitoring** | Enables by itself in Google Fit | Available since March.Heart rate measure require Pixel's with back camera sensor for measurement.Respiratory measurement works in all using front camera. |
 | **Adaptive Sound**       | Toggle inside Settings-> Sound-> Adaptive Sound | Available since December.Those facing [#27](https://github.com/ayush5harma/PixelFeatureDrops/issues/27) Grab [Device personalisation services from apkmirror](https://www.apkmirror.com/apk/google-inc/device-personalization-services/device-personalization-services-r-14-playstore-oem-361994540-release/device-personalization-services-r-14-playstore-oem-361994540-android-apk-download/) |
