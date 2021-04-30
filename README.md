@@ -5,6 +5,11 @@
 
 <p align="center"> </h2></p> 
 
+## Release Nomenclature:
+- PixelFeatureDrop-Month -
+- PixelFeatureDrop-Month-HAL3 - 
+- PixelFeatureDrop-portedGA2 -
+
 ## Requirements:
 - Android R | *Device*: any  | *Magisk version*: 21+ | Custom ROM: AOSP based that uses pixel's system UI with gapps installed such as PixelExperience.  
   *Some tested custom ROMs* : PixelExperience(PE and PE plus); EvolutionX;  Havoc;  ParanoidAndoid; and AOSiP Derpfest.   
