@@ -5,11 +5,6 @@
 
 <p align="center"> </h2></p> 
 
-## Release Nomenclature:
-- **PixelFeatureDrop-Month** - Default version
-- **PixelFeatureDrop-Month-HAL3** - version with cam2api
-- **PixelFeatureDrop-Month-portedGA2** - version with port files for GA2 resources for custom ROMs such as lineageOS where GA2 is not enabled with the dafault module due to missing resources
-
 ## Requirements:
 - Android R | *Device*: any  | *Magisk version*: 21+ | Custom ROM: AOSP based that uses pixel's system UI with gapps installed such as PixelExperience.  
   *Some tested custom ROMs* : PixelExperience(PE and PE plus); EvolutionX;  Havoc;  ParanoidAndoid; and AOSiP Derpfest.   
