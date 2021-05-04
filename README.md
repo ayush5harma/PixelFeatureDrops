@@ -17,19 +17,13 @@ PixelFeatureDrops is a magisk module to enables most of the latest Google Pixel 
 
 | Feature Drop  | Steps to enable      | Sidenote  |
 | ------------- |:-------------:| -----:|
-
 | **Shareable Recorder** | Enables by itself using Recorder app enables automatic backup to Google Drive, and access through a new recorder.google.com web app. | Available since March.Works in English only |
-
 | **Gboard Smart Compose** | Enables by itself using GBoard in selected messaging Apps. | Available since March.Works when set to English(US) only. |
-
 | **Google Fit heart and respiratory monitoring** | Enables by itself in Google Fit | Available since March.Heart rate measure require Pixel's with back camera sensor for measurement.Respiratory measurement works in all devices using front camera. |
-
 | **Adaptive Sound**       | Open your phone's Settings app.Tap Sound & vibration And then Adaptive Sound.Turn on Adaptive Sound.| Available since December.Working with all devices since March release.|
-
-| **Adaptive Charging** | Open your phone's Settings app.Tap Battery And then Adaptive Battery.Turn on Adaptive Charging. | 
-
+| **Adaptive Charging** | Open your phone's Settings app.Tap Battery And then Adaptive Battery.Turn on Adaptive Charging. | |
 |**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean the Google app's data,  thereby launching assistant will ask for the download of additional update to enable the new assistant.For Continued Coversation open the Google app.Tap More And Settings And Google Assistant And Assistant And Continued Conversation.Turn on the toggle for phone. | If NGAResources are missing then flash the [PixelFeatureDrops+NGAResouces][github-release-link].If *Google assistant compact UI not showing* then set the language of the assistant to English(United States) and English(United States) only.The new google assistant doesn't have bilingual functionality yet unless both those languages are supported.|
-|**Google Photos portrait filter**|Take portrait shot with human face and open it for edit inside google photos app.||
+|**Google Photos portrait filter**|Take portrait shot with human face and open it for edit inside google photos app.| |
 |**Google Duo portrait mode, autoframing during video calls and screen sharing in group calls**|Enables by itself and available during videocall as option bubble| |
 |**Live Caption Improvements**     | Toggle Sounds-> Live Caption  |   Improvements since December |
 |**Flip to Silence** | Open Google Phone app.Tap Settings And Advanced And Flip to Silence.Turn on Flip to Silence |  |
@@ -92,7 +86,9 @@ If using edxposed also follow the below steps to ensure that the safetynet passe
 - Use the latest Edxposed build with AppList mode enabled and blacklist *Google PlayServices, Playstore, Google Service Framework and Carrier Services* .
 - Turn on riru hide mechanism by creating empty file *enable_hide* inside /data/adb/riru and reboot. Use riru apk to cross-check if hide is enabled.  
   
-**Credits** : The system files and prop values are taken and updated from android dump at  https://git.rip/dumps/google/redfin .  
+## Credits :
+
+The system files and prop values are taken and updated from android dump at  https://git.rip/dumps/google/redfin .  
 
 
 
