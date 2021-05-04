@@ -1,6 +1,6 @@
-id=P5Props-R
-name=P5Props
-version=r8
-versionCode=04052021
+id=PixelFeatureDrop
+name=PixelFeatureDrop
+version=MayPatch
+versionCode=05052021
 author=ayush5harma
-description=PixelFeatureDrops
+description=Enables most of the latest Google feature drops on devices running on android custom ROMs with pixel's system UI.
