@@ -33,11 +33,6 @@ PixelFeatureDrops is a magisk module to enables most of the latest Google Pixel 
 |**Now Playing Playlist export**|In your Now Playing history, you can select the songs you saved and export them to a playlist in YouTube Music.|	Install [Pixel Ambient Services ](https://play.google.com/store/apps/details?id=com.google.intelligence.sense&hl=en_IN&gl=US) if not present from playstore|
 
 
-HAL3 version enables the following for budget smartphones:
-- **Camera 2 API Level 3** 
-- **Google Play Services for AR  and Playground(AR Stickers)**. (becomes installable via playstore in budget range smartphones)
-
-
 *The following features have not been tested but should enable themselves in countries where they are rolled out by Google*
 
 - **Call Screen ,Hold For Me and other features powered by Google's Duplex Technology** in countries where it is rolled out. (enables by itself)  
@@ -69,7 +64,12 @@ Check the security patch level of your custom ROMs and head to corresponding Mon
 #### NGA Resources version
 New Google Assistant resources app is required to download additional resources to enable the Google Assistant 2.It is mostly available in the gapps build of custom ROMs already but in some cases it is not so.This flashable is for such cases. Click on `Assets` to show the files available in the release and then  `PixelFeatureDrops+NGAResources` to download the flashable zip.
 
+#### HAL3 Version 
+HAL3 version enables the following for budget smartphones:
+- **Camera 2 API Level 3** 
+- **Google Play Services for AR  and Playground(AR Stickers)**. (becomes installable via playstore in budget range smartphones)
 
+Click on `Assets` to show the files available in the release and then  `PixelFeatureDrops-HAL3` to download the flashable zip.
 
 
 ## Sidenotes:
