@@ -25,7 +25,7 @@ PixelFeatureDrops is a magisk module to enables most of the latest Google Pixel 
 |**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean the Google app's data,  thereby launching assistant will ask for the download of additional update to enable the new assistant.For Continued Coversation open the Google app.Tap More And Settings And Google Assistant And Assistant And Continued Conversation.Turn on the toggle for phone. | If NGAResources are missing then flash the [PixelFeatureDrops+NGAResouces][github-release-link].If *Google assistant compact UI not showing* then set the language of the assistant to English(United States) and English(United States) only.The new google assistant doesn't have bilingual functionality yet unless both those languages are supported.|
 |**Google Photos portrait filter**|Take portrait shot with human face and open it for edit inside google photos app.| |
 |**Google Duo portrait mode, autoframing during video calls and screen sharing in group calls**|Enables by itself and available during videocall as option bubble| |
-|**Live Caption Improvements**     | Toggle Sounds-> Live Caption  |   Improvements since December |
+|**Live Caption Improvements**     | Open your phone's Settings app.Tap Sound & vibration And Live Caption.Turn on Live Caption   |   Improvements since December |
 |**Flip to Silence** | Open Google Phone app.Tap Settings And Advanced And Flip to Silence.Turn on Flip to Silence |  |
 |**Rampant Ringer**|Open your phone's Settings app.Tap Sound & vibration And Vibration.Choose First Vibrate then ring gradually| |
 |**UI overhaul for core google and some other apps**|Enables by itself such as gboard consistent new design, dark mode in google maps, docs, sheets, slides, playbooks etc | |
@@ -59,7 +59,7 @@ Note: Tap Directions, make sure you’re on the walking tab, and you should see 
    - Custom ROM: AOSP based with pixel's system UI (preferably gapps build). 
 
 
-### Via Magisk Manager [Recommended]
+### Via Magisk Manager
 
 #### Default version
 
