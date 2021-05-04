@@ -1,15 +1,18 @@
-# P5Props - Magisk Module for Pixel Feature Drops
+# Pixel Feature Drops - Magisk Module
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/47772616/101059258-12c1ac80-35b4-11eb-9138-028dbcafb629.png" />
+  <img src="https://user-images.githubusercontent.com/47772616/117039737-bd3a2900-ad26-11eb-9997-f5d8de1aa069.png" />
 </p>
 
 <p align="center"> </h2></p> 
 
-## Requirements:
-- Android R | *Device*: any  | *Magisk version*: 21+ | Custom ROM: AOSP based that uses pixel's system UI with gapps installed such as PixelExperience.  
-  *Some tested custom ROMs* : PixelExperience(PE and PE plus); EvolutionX;  Havoc;  ParanoidAndoid; and AOSiP Derpfest.   
-  
-*The following features should enable on any other AOSP custom ROM using pixel's system UI with gapps installed post module installation.*
+
+## About
+
+
+PixelFeatureDrops is a magisk module to enables most of the latest Google Pixel feature drops on devices running on android custom ROMs with pixel's system UI.
+
+
+*The following features enable on any other AOSP custom ROM using pixel's system UI with gapps installed post module installation.*
 
 
 | Feature Drop  | Steps to enable      | Sidenote  |
@@ -19,7 +22,7 @@
 | **Google Fit heart and respiratory monitoring** | Enables by itself in Google Fit | Available since March.Heart rate measure require Pixel's with back camera sensor for measurement.Respiratory measurement works in all using front camera. |
 | **Adaptive Sound**       | Toggle inside Settings-> Sound-> Adaptive Sound | Available since December.Working with all devices since March release.|
 | **Adaptive Charging** | Toggle inside adaptive battery | 
-|**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean the Google app's data,  thereby launching assistant will ask for the download of additional update to enable the new assistant.For Continued Coversation open google app > More > Settings > Google Assistant > Assistant > Continued Conversation . Turn on the toggle for phone. | Install [NGAResources]( https://www.dropbox.com/s/ed10513o4hke8ux/NgaResources.apk?dl=0 ) if not present in the gapps build already (rarely the case).If *Google assistant compact UI not showing*- set the language of the assistant to English(United States) and English(United States) only.The new google assistant doesn't have bilingual functionality yet unless both those languages are supported.Or use PixelFeatureDrop-Month-portedGA2|
+|**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean the Google app's data,  thereby launching assistant will ask for the download of additional update to enable the new assistant.For Continued Coversation open google app > More > Settings > Google Assistant > Assistant > Continued Conversation . Turn on the toggle for phone. | If NGAResources are missing thenflash the [PixelFeatureDrops+NGAResouces][github-release-link].If *Google assistant compact UI not showing* then set the language of the assistant to English(United States) and English(United States) only.The new google assistant doesn't have bilingual functionality yet unless both those languages are supported.|
 |**Google Photos portrait filter**|Take portrait shot with human face and open it for edit inside google photos app.Additional update for editor will begin to download for the portrait filter.||
 |**Google Duo portrait mode, autoframing during video calls and screen sharing in group calls**|Enables by itself and available during videocall in the option bubbles| |
 |**Live Caption Improvements**     | Toggle Sounds-> Live Caption  |   Improvements since December |
@@ -46,12 +49,33 @@ Note: Tap Directions, make sure you’re on the walking tab, and you should see 
 - **Pixel Stand Exclusive Features** 
 
 
-## Instructions for installation :
-- Check the security patch level of the aforementioned custom ROMs and flash the corresponding module zip from [release](https://github.com/ayush5harma/PixelFeatureDrops/releases)  section via magisk. 
-( *Check for security patch date under *About Phone -> Android Version* via settings , if it's say *December 5, 2020* then install *PixelFeatureDrop-December* from the [release](https://github.com/ayush5harma/PixelFeatureDrops/releases) section* )
+## Installing 
+
+### Requirements
+
+
+- Android 11 (R).
+   - *Magisk version*: 21 and above.
+   - Custom ROM: AOSP based with pixel's system UI (preferably gapps build). 
+
+
+### Via Magisk Manager [Recommended]
+
+#### Default version
+
+Check the security patch level of your custom ROMs and head to corresponding MonthlyPatch in the [PixelFeatureDrops Releases][github-release-link]. Click on `Assets` to show the files available in the release and then click on `PixelFeatureDrops` to download the flashable zip.  
+( Security patch date can be viewed via settings under About Phone by tapping Android Version  )
+
+#### NGA Resources version
+New Google Assistant resources app is required to download additional resources to enable the Google Assistant 2.It is mostly available in the gapps build of custom ROMs already but in some cases it is not so.This flashable is for such cases. Click on `Assets` to show the files available in the release and then  `PixelFeatureDrops+NGAResources` to download the flashable zip.
+
+
+
+
+## Sidenotes:
 
 ## Instructions for Safetynet :   
-Make sure to install correct release as mentioned in *Instructions for installation* otherwise it will lead to CTS Failure in safetynet
+Make sure to install correct release otherwise it will lead to CTS Failure in safetynet
 Besides that, the following steps are to be taken in general when using magisk to pass safetynet:
 - Turn on magisk hide and hide for *Google PlayServices, Playstore, Google Service Framework and Carrier Services*. Besides also hide magisk manager to pass safetynet.    
 
@@ -65,3 +89,5 @@ If using edxposed also follow the below steps to ensure that the safetynet passe
 **Credits** : The system files and prop values are taken and updated from android dump at  https://git.rip/dumps/google/redfin .  
 
 
+
+[github-release-link]: https://github.com/ayush5harma/PixelFeatureDrops/releases
