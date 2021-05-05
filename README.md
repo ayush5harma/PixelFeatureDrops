@@ -74,7 +74,15 @@ Click on `Assets` to show the files available in the release and then  `PixelFea
 
 ## Sidenotes:
 
-## Instructions for Safetynet :   
+## Face Enrolment :
+**Issue**: Enrollment not working because of errors with camera ( front camera not working during enrollment or switching to back camera )
+**Solution** : Enroll your face for face unlock before flashing the module.
+
+## Playstore system Update :
+**Issue** : Unable to install playstore system update.
+**Solution** : Disable the module then reboot and then install the playstore system update after which re- enable the module from magisk folowed by a reboot.
+
+## General Instructions for Safetynet with magisk and edXposed:   
 Make sure to install correct release otherwise it will lead to CTS Failure in safetynet
 Besides that, the following steps are to be taken in general when using magisk to pass safetynet:
 - Turn on magisk hide and hide for *Google PlayServices, Playstore, Google Service Framework and Carrier Services*. Besides also hide magisk manager to pass safetynet.    
