@@ -74,18 +74,25 @@ Click on `Assets` to show the files available in the release and then  `PixelFea
 
 ## Sidenotes:
 
+## Unsupported CustomROM : 
+**Issue** : features not enabling.  
+**Solution** : Use Custom ROM which are AOSP based with pixel's system UI (preferably gapps build).
+
 ## No UI for Google Assistant 2.0 :  
 **Issue** : Customised Pixel launcher and navbars shipped with custom ROMs such as shady launcher variants of pixel launcher with app lock, icon packs, double tap to sleep and replaced navbar to provide 2 button gesture and customisation of the pill.Modified pixel launcher removes the UI completely while modified navbar removed the glow as these only worked with stock files.  
-**Solution** : Use the [Pixel Launcher port from Pixel 5](https://forum.xda-developers.com/t/magisk-pixel-launcher-for-android-11.4213619/) if not provided with ROM.
+**Solution** : Use the [Pixel Launcher port from Pixel 5](https://forum.xda-developers.com/t/magisk-pixel-launcher-for-android-11.4213619/) if not provided with ROM.4
+
 ## Face Enrolment :
-**Issue**: Enrollment not working because of errors with camera ( front camera not working during enrollment or switching to back camera )   
+**Issue**: Enrollment not working because of errors with camera ( front camera not working during enrollment or switching to back camera )  
 **Solution** : Enroll your face for face unlock before flashing the module.
 
 ## Playstore system Update :
 **Issue** : Unable to install playstore system update.  
 **Solution** : Disable the module then reboot and then install the playstore system update after which re- enable the module from magisk folowed by a reboot.
 
-## General Instructions for Safetynet with magisk and edXposed:   
+## Safetynet:   
+**Issue** : Safetynet fails.  
+**Solution** :  
 Make sure to install correct release otherwise it will lead to CTS Failure in safetynet
 Besides that, the following steps are to be taken in general when using magisk to pass safetynet:
 - Turn on magisk hide and hide for *Google PlayServices, Playstore, Google Service Framework and Carrier Services*. Besides also hide magisk manager to pass safetynet.    
@@ -96,7 +103,19 @@ Besides that, the following steps are to be taken in general when using magisk t
 If using edxposed also follow the below steps to ensure that the safetynet passes:
 - Use the latest Edxposed build with AppList mode enabled and blacklist *Google PlayServices, Playstore, Google Service Framework and Carrier Services* .
 - Turn on riru hide mechanism by creating empty file *enable_hide* inside /data/adb/riru and reboot. Use riru apk to cross-check if hide is enabled.  
-  
+
+## Aux Lenses:  
+**Issue** : Can't detect /switch to aux lenses.  
+**Solution** : 
+If you are using gcam port try loading appropriate config file for the gcam you are using. Below is the link to configs for wyroczen's google camera port for your device.
+https://www.celsoazevedo.com/files/android/google-camera/f/configs-wyroczen-03/
+
+If you're using miui cam port which checks for device fingerprint you have to spoof the device fingerprint for miuicam using edxposed module (https://github.com/ikws4/WeiJu) to make it work (you may check video here #10 (comment) can get these variable values from your stcok build.prop file.
+
+## HAL 3 :   
+**Issue** : Playstore not listing AR services.  
+**Solution** : clear playstore data
+
 ## Credits :
 
 The system files and prop values are taken and updated from android dump at  https://git.rip/dumps/google/redfin .  
