@@ -74,8 +74,11 @@ Click on `Assets` to show the files available in the release and then  `PixelFea
 
 ## Sidenotes:
 
+## No UI for Google Assistant 2.0 :  
+**Issue** : Customised Pixel launcher and navbars shipped with custom ROMs such as shady launcher variants of pixel launcher with app lock, icon packs, double tap to sleep and replaced navbar to provide 2 button gesture and customisation of the pill.Modified pixel launcher removes the UI completely while modified navbar removed the glow as these only worked with stock files.  
+**Solution** : Use the [Pixel Launcher port from Pixel 5](https://forum.xda-developers.com/t/magisk-pixel-launcher-for-android-11.4213619/) if not provided with ROM.
 ## Face Enrolment :
-**Issue**: Enrollment not working because of errors with camera ( front camera not working during enrollment or switching to back camera ) 
+**Issue**: Enrollment not working because of errors with camera ( front camera not working during enrollment or switching to back camera )   
 **Solution** : Enroll your face for face unlock before flashing the module.
 
 ## Playstore system Update :
