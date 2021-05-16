@@ -107,10 +107,8 @@ If using edxposed also follow the below steps to ensure that the safetynet passe
 ## Aux Lenses:  
 **Issue** : Can't detect /switch to aux lenses.  
 **Solution** : 
-If you are using gcam port try loading appropriate config file for the gcam you are using. Below is the link to configs for wyroczen's google camera port for your device.
-https://www.celsoazevedo.com/files/android/google-camera/f/configs-wyroczen-03/
-
-If you're using miui cam port which checks for device fingerprint you have to spoof the device fingerprint for miuicam using edxposed module (https://github.com/ikws4/WeiJu) to make it work (you may check video here #10 (comment) can get these variable values from your stcok build.prop file.
+If you are using gcam port try loading appropriate config file for the gcam you are using.  
+If you're using miui cam port or any other port which checks for device fingerprint you have to spoof the device fingerprint for that camera app using edxposed module (https://github.com/ikws4/WeiJu) to make it work (you may check video here [#10](https://github.com/ayush5harma/PixelFeatureDrops/issues/10#issuecomment-701601857)  and can get these variable values from your stock build.prop file.)
 
 ## HAL 3 :   
 **Issue** : Playstore not listing AR services.  
