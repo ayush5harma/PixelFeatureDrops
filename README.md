@@ -17,6 +17,7 @@ PixelFeatureDrops is a magisk module to enables most of the latest Google Pixel 
 
 | Feature Drop  | Steps to enable      | Sidenote  |
 | ------------- |:-------------:| -----:|
+| **Unlimited Google Photos Storage** | Clear photos app data. While choosing backup option, choose high quality option. *All **uploads from phone** won't be counted against the google storage quota*. | Free and unlimited Backup in high quality post 1st June policy changes. |
 | **Shareable Recorder** | Enables by itself using Recorder app enables automatic backup to Google Drive, and access through a new recorder.google.com web app. | Available since March.Works in English only |
 | **Gboard Smart Compose** | Enables by itself using GBoard in selected messaging Apps. | Available since March.Works when set to English(US) only. |
 | **Google Fit heart and respiratory monitoring** | Enables by itself in Google Fit | Available since March.Heart rate measure require Pixel's with back camera sensor for measurement.Respiratory measurement works in all devices using front camera. |
