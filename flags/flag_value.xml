@@ -1,0 +1,889 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="enable_emoji_group_candidate_ui" value="true" />
+    <boolean name="enable_backup_delight5_personalized_data" value="true" />
+    <float name="dictation_donation_tier_one_probability" value="0.0" />
+    <boolean name="use_silk_theme_by_default" value="true" />
+    <boolean name="try_initialize_decoder_after_lm_loads" value="true" />
+    <string name="app_completion_commit_completion_whitelist">com.google.android.apps.maps*,com.google.android.apps.gmm*,com.google.android.googlequicksearchbox*,com.google.android.apps.nexuslauncher*</string>
+    <boolean name="enable_sticker_candidates" value="true" />
+    <boolean name="concept_prediction_sample_emoji_by_popularity" value="true" />
+    <long name="inline_suggestion_tooltip_v2_chip_max_num_shown" value="3" />
+    <long name="c2q_superpacks_manifest_version_ms" value="4" />
+    <boolean name="rescore_tap_decoded_candidates" value="true" />
+    <string name="speech_ondevice_locales">en-US</string>
+    <boolean name="federatedc2q_inference_enabled" value="true" />
+    <long name="contextual_rate_us_max_allowable_times" value="1" />
+    <boolean name="enable_next_generation_hwr_support" value="true" />
+    <string name="grammar_checker_manifest_uri"></string>
+    <long name="enable_key_border_by_default_new_user_timestamp" value="1574150340000" />
+    <float name="normal_keyboard_bottom_inch" value="0.0" />
+    <boolean name="crank_trigger_decoder_inline_completion_first" value="true" />
+    <long name="keycenter_offset_mode" value="4" />
+    <boolean name="native_language_hint_show_overlay" value="true" />
+    <boolean name="enable_multilang_next_word_prediction" value="true" />
+    <string name="maestro_app_whitelist">-</string>
+    <long name="pruning_max_depth_to_keep_after_pruning" value="2" />
+    <boolean name="enable_switch_to_other_ime" value="true" />
+    <boolean name="enable_handle_emoticon_for_expression_candidates" value="true" />
+    <boolean name="enable_mdd_in_hmm" value="true" />
+    <boolean name="ekho_speech_p13n_caching_enabled" value="true" />
+    <string name="federatedc2q_search_lm_corpus_tag"></string>
+    <long name="min_words_predicted" value="2" />
+    <boolean name="enable_multiword_suggestions_from_user_history" value="true" />
+    <boolean name="enable_lang_id" value="true" />
+    <boolean name="enable_multilingual_sequential_decoding" value="true" />
+    <float name="dictation_donation_tier_two_probability" value="0.0" />
+    <boolean name="force_small_language_pack_download" value="true" />
+    <boolean name="debug_service_enable_training_cache" value="true" />
+    <boolean name="conv2query_extension_enabled" value="true" />
+    <long name="default_profiling_freq_ms" value="1" />
+    <boolean name="enable_literal_hypotheses_protection" value="true" />
+    <boolean name="enable_p13n_on_nwp_tflite_engine" value="true" />
+    <boolean name="higher_ranked_emoji_candidates_at_end" value="true" />
+    <string name="__bytes__fst_model_params_overrides"></string>
+    <float name="dominate_threshold_for_single_word_completions" value="-0.69315" />
+    <boolean name="require_device_charging_for_content_cache_download" value="true" />
+    <string name="__bytes__hmm_data_zh_tw">CgV6aF9UVxJ0ElBodHRwczovL3d3dy5nc3RhdGljLmNvbS9hbmRyb2lkL2tleWJvYXJkL2htbXBh&#10;Y2svMjAxODA3MDIwOC96aF9UV18yMDE4MDcwMjA4LnppcCC/55wFOhB6aF9UV18yMDE5MDEwNDA0&#10;WgcKBSIDCgEqeAFQ5M7ewgdwAA==&#10;    </string>
+    <boolean name="skip_gesture_last_frame" value="true" />
+    <float name="gesture_worst_align_score" value="-7.0" />
+    <boolean name="enable_m2_search_box_trending_search_chips" value="true" />
+    <boolean name="tv_new_abc_layout_study_enabled" value="true" />
+    <boolean name="enable_mic_open_after_s3_connection" value="true" />
+    <boolean name="enable_new_arabic_script_languages_handwriting_layouts" value="true" />
+    <string name="tiresias_lm_personalization_supported_model_names"></string>
+    <boolean name="remove_candidate_shown_as_inline" value="true" />
+    <string name="delight_metadata_uri">https://www.gstatic.com/android/keyboard/dictionarypack/latest/metadata_beta_xs1GeWbGd4f75FQR.json</string>
+    <float name="dominate_threshold_for_advantage_over_other_candidates" value="0.69315" />
+    <string name="delight_apps_metadata_uri"></string>
+    <boolean name="enable_clipboard_screenshot_paste" value="true" />
+    <boolean name="enable_tflite_triggering_model" value="true" />
+    <float name="literal_start_penalty_relative_min" value="0.5" />
+    <string name="fast_access_bar_package_name_emojis_map">{}</string>
+    <long name="contextual_rate_us_max_allowable_attempts" value="5" />
+    <float name="multiword_threshold_for_three_words" value="0.8" />
+    <boolean name="enable_sharing_link_receiver" value="true" />
+    <string name="language_tags_excluded">en</string>
+    <float name="disable_ac_edit_distance_offset" value="0.0" />
+    <boolean name="disable_object_store_cleanup" value="true" />
+    <boolean name="return_all_pending_metrics_on_finish_session" value="true" />
+    <boolean name="extends_touch_below_space" value="true" />
+    <string name="tiresias_superpacks_manifest_url">https://www.gstatic.com/android/keyboard/tiresias/superpacks_manifest.20200902.json</string>
+    <long name="kc_history_sample_size" value="15" />
+    <long name="c2q_superpacks_manifest_version_it" value="5" />
+    <long name="native_language_hint_show_search_notice_max_times" value="1" />
+    <float name="gesture_beam_adjustment_decay_ratio" value="0.0" />
+    <boolean name="enable_simplified_ranking" value="true" />
+    <long name="expressive_concept_superpacks_manifest_version" value="2020031023" />
+    <float name="literal_start_penalty_revert_relative_step" value="0.02" />
+    <boolean name="enable_new_devanagari_script_languages_handwriting_layouts" value="true" />
+    <long name="c2q_superpacks_manifest_version_ja" value="1" />
+    <string name="curated_gif_urls">https://media.tenor.com/images/eb707bb9c16cce278309b806437de097/tenor.gif,https://media.tenor.com/images/4d4e4d1d9fe35976feea61832ba366a6/tenor.gif,https://media.tenor.com/images/bb3c1585388c76140a56243ad58516e3/tenor.gif,https://media.tenor.com/images/8cf38543eebff103df6f1ec2730a5bde/tenor.gif,https://media.tenor.com/images/f2dcaaffe29ac111df8e333221ee231b/tenor.gif,https://media.tenor.com/images/a46fb163eedac8b73fd5b37522bb6454/raw,https://media.tenor.com/images/d7e9839f7816f2e7e00833d3878c8ae6/tenor.gif,https://media.tenor.com/images/890a0f650405054b82510c83b11a4be4/tenor.gif,https://media.tenor.com/images/a625312efec75d0487d2d9cbaa44a316/tenor.gif,https://media.tenor.com/images/323334b2a3d448b296bb813b25c12b96/tenor.gif,https://media.tenor.com/images/b23770782dd10e41d1efb2547ed4b106/tenor.gif,https://media.tenor.com/images/3579c2ea87dab612331fe6642cf72bc5/tenor.gif,https://media.tenor.com/images/053f4becdb91f78b78ef1f420686f971/tenor.gif,https://media.tenor.com/images/f5fafa9023d2ca0242e565cca321575a/tenor.gif,https://media.tenor.com/images/e3067445e4adae8bbf4eebf5c5e70582/tenor.gif,https://media.tenor.com/images/e1568d1a9cd6112b64757319c8130b67/tenor.gif,https://media.tenor.com/images/72d6a1ee3601e07ac0e0f6e446fb1070/tenor.gif,https://media.tenor.com/images/9f325db2402a93c645f802811a17e04d/tenor.gif,https://media.tenor.com/images/bd1569bb2d1a85780cfd2386d5333072/tenor.gif</string>
+    <string name="fast_access_bar_enabled_keyboard_types">prime,digit,symbol,alphabet_qwerty,alphabet_12keys,tri_state_digit,clipboard,text_editing</string>
+    <long name="max_emoji_shortcut_candidates" value="2" />
+    <string name="enable_tenor_trending_search_term_for_language_tags">en</string>
+    <float name="default_lm_score_for_emoji_key" value="-1.0" />
+    <boolean name="enable_inline_suggestions_on_decoder_side" value="true" />
+    <boolean name="enable_proactive_gif_categories_with_icon" value="true" />
+    <string name="lm_personalization_superpacks_manifest_url"></string>
+    <long name="keyboard_redesign_subset_features_new_user_timestamp" value="1" />
+    <long name="screen_reader_min_version_for_lift_to_type" value="60105832" />
+    <boolean name="enable_short_content_suggestion_strip" value="true" />
+    <string name="federatedc2q_corpus_tag"></string>
+    <long name="input_area_bottom_gap_dp" value="1" />
+    <long name="input_area_bottom_gap_new_user_timestamp" value="1" />
+    <long name="c2q_superpacks_manifest_version_fr" value="5" />
+    <float name="literals_start_penalty_in_email_input_box" value="3.0" />
+    <long name="search_hint_start_delay_hours" value="168" />
+    <boolean name="enable_rule_based_concept_prediction" value="true" />
+    <boolean name="fast_access_bar_disable_access_point" value="true" />
+    <string name="sticker_pack_similarity_superpacks_manifest_url">https://www.gstatic.com/android/keyboard/modelpack/expression_item_similarity/pack_20200812/superpacks_manifest.json</string>
+    <boolean name="enable_expressive_concept_model" value="true" />
+    <boolean name="enable_universal_media_more_emoji_btn" value="true" />
+    <boolean name="enable_mwp_tflite_engine" value="true" />
+    <float name="kc_keycenter_offset_weight" value="0.5" />
+    <boolean name="enable_voice_in_japanese" value="true" />
+    <long name="emoji_predictor_min_supported_version" value="20190717" />
+    <string name="apps_to_respect_type_text_flag_no_suggestions">com.google.android.apps.searchlite</string>
+    <float name="kc_trigger_threshold" value="0.0" />
+    <long name="lens_minimum_agsa_version_code" value="301103376" />
+    <long name="ondevice_dictation_performance_evaluation_version" value="20200924" />
+    <string name="__bytes__slowness_detect_strategy">Cg8I6AcQZBjoByCsAigyMGQQoAsYAw==&#10;    </string>
+    <boolean name="enable_joystick_delete" value="true" />
+    <boolean name="lstm_training_federation_enabled" value="true" />
+    <long name="voice_donation_consent_version" value="1" />
+    <string name="crank_inline_suggestion_language_tags">en-US</string>
+    <boolean name="supports_battery_saver_theme" value="true" />
+    <long name="branding_fadeout_delay_ms" value="900" />
+    <string name="auto_start_voice_app_whitelist">com.google.android.apps.inputmethod.inputboxes</string>
+    <boolean name="enable_magic_g" value="true" />
+    <long name="core_typing_experience_indicator_completion_delayed_millis" value="300" />
+    <boolean name="enable_dynamic_candidate_partitioning" value="true" />
+    <long name="concept_prediction_num_query_predictions" value="2" />
+    <string name="enable_magic_g_locales">de,fr,it,ms,ta</string>
+    <boolean name="log_all_sticker_shares_to_training_cache" value="true" />
+    <boolean name="support_one_word_map_to_multiple_original_spans" value="true" />
+    <boolean name="auto_hide_expression_nav_footer_rich_content" value="true" />
+    <string name="lang_id_superpacks_manifest_uri">https://www.gstatic.com/android/keyboard/langid/20191018/superpacks_manifest.json</string>
+    <boolean name="enable_bitmoji_fullsize_webp_thumbnail" value="true" />
+    <boolean name="primes_dir_stats_logging_enabled" value="true" />
+    <long name="num_of_first_key_correction_predictions" value="1" />
+    <boolean name="use_ogg_opus_encoder" value="true" />
+    <string name="enabled_sticker_search_locales">ar,de,en,es,fr,hi-IN,hi-Latn,id,it,ja,ko,nl,pl,pt,ru,th,tr,zh-CN,zh-HK,zh-TW</string>
+    <float name="key_gaussian_width_multiplier_for_spacebar" value="-1.0" />
+    <boolean name="enable_multiword_suggestions_as_inline_from_crank_transformer" value="true" />
+    <boolean name="pill_shaped_key" value="true" />
+    <string name="country_cutout_switches_fl_v2">US,USA,840,CA,CAN,124,BR,BRA,076,ID,IDN,360,AU,AUS,036,MX,MEX,484,NG,NGA,566,AR,ARG,032,ES,ESP,724,CO,COL,170,PE,PER,604,CL,CHL,152,GT,GTM,320,VE,VEN,862,EC,ECU,218,IN,IND,356</string>
+    <float name="key_center_offset_scale" value="0.0" />
+    <float name="spacebar_trigger_threshold" value="0.0" />
+    <boolean name="show_branding_on_space" value="true" />
+    <boolean name="require_device_idle_for_content_cache_download" value="true" />
+    <boolean name="set_gif_proactive_categories_bold" value="true" />
+    <boolean name="federatedc2q_brella_in_app_training_enabled" value="true" />
+    <string name="enable_tenor_autocomplete_for_language_tags"></string>
+    <boolean name="auto_hide_expression_nav_footer_text_content" value="true" />
+    <boolean name="enable_triggering_model_for_spacebar" value="true" />
+    <long name="mozc_superpacks_japanese_language_model_version" value="2021040609" />
+    <boolean name="enable_berber_latin_handwriting_layout" value="true" />
+    <long name="enable_higher_keyboard_by_bottom_gap_new_user_timestamp" value="1" />
+    <boolean name="enable_nebulae_storage_cleaner" value="true" />
+    <long name="max_tolerated_webp_compress_native_crashes" value="-1" />
+    <string name="pair_replace_pattern"></string>
+    <long name="inline_suggestion_tooltip_v2_max_num_shown" value="1" />
+    <long name="expressive_concept_min_supported_version" value="2020022000" />
+    <boolean name="enable_key_correction_for_key_up" value="true" />
+    <boolean name="enable_backup_clipboard_data" value="true" />
+    <boolean name="rerank_top_gesture_candidate" value="true" />
+    <boolean name="concept_prediction_enable_emoji_renderable_check" value="true" />
+    <boolean name="log_word_edit_for_span_prefix_deleted" value="true" />
+    <long name="candidate_merging_strategy" value="1" />
+    <long name="lstm_brella_training_interval_seconds" value="1" />
+    <boolean name="enable_logging_agsa_search_queries_to_training_cache" value="true" />
+    <boolean name="enable_more_candidates_view_for_multilingual" value="true" />
+    <string name="tenor_content_filter_level">medium</string>
+    <float name="literal_start_penalty_relative_max" value="1.02" />
+    <long name="c2q_superpacks_manifest_version_ta" value="4" />
+    <boolean name="force_speech_language_pack_updates" value="true" />
+    <long name="fast_access_bar_fixed_slot" value="5" />
+    <boolean name="log_all_gif_shares_to_training_cache" value="true" />
+    <float name="multiword_prediction_cost" value="1.4" />
+    <boolean name="rescore_candidate_for_gesture" value="true" />
+    <boolean name="enable_core_typing_experience_indicator_on_composing_text" value="true" />
+    <boolean name="enable_training_cache_infra_debug_service" value="true" />
+    <boolean name="dlam_multilang_users_only" value="true" />
+    <boolean name="enable_ac_trigger_predictor_with_better_literal_candidate" value="true" />
+    <boolean name="clean_up_omission_cost" value="true" />
+    <boolean name="disable_from_space_kc" value="true" />
+    <boolean name="ignore_word_separators_for_prediction_context" value="true" />
+    <string name="enable_tenor_category_for_language_tags">ar,de,en,es,fr,hi,hu,id,it,ja,ko,ms,nl,pt,ru,th,tr,vi,zh-CN,zh-TW</string>
+    <boolean name="oem_dark_theme" value="true" />
+    <long name="number_of_emoji_recents_to_cache_content_for" value="36" />
+    <boolean name="less_begin_end_batch_calls" value="true" />
+    <long name="native_language_hint_delay" value="3" />
+    <boolean name="enable_auto_float_keyboard_in_multi_window" value="true" />
+    <long name="tflite_model_feature_num" value="1" />
+    <float name="multiword_threshold_for_two_words" value="1.0" />
+    <long name="emoji_key_ignore_time_interval_for_cjk" value="300" />
+    <string name="__bytes__rank_gesture_params"></string>
+    <boolean name="handwriting_superpacks_preloading_support" value="true" />
+    <float name="normal_keyboard_bottom_gap_from_screen_inch" value="0.0" />
+    <string name="enable_tenor_suggested_search_term_v2_for_language_tags"></string>
+    <boolean name="enable_text_to_one_tap_expressions" value="true" />
+    <string name="mwp_superpacks_manifest_uri">https://www.gstatic.com/android/keyboard/multi_word_predictor/superpacks-manifest-20200424_151816.json</string>
+    <string name="emoji_predictor_superpacks_manifest_uri">https://www.gstatic.com/android/keyboard/emoji_predictor/superpacks-manifest-20200212.json</string>
+    <float name="federatedc2q_inference_triggering_threshold" value="-3.5" />
+    <string name="lm_redirect_rule">en-US|en-IN,</string>
+    <long name="core_typing_experience_indicator_delayed_millis" value="150" />
+    <long name="emoji_key_ignore_time_interval" value="1" />
+    <string name="avoid_fullscreen_mode_in_apps">-</string>
+    <float name="space_post_correction_min_improvement" value="1.0" />
+    <boolean name="disable_ac_without_literal_candidate" value="true" />
+    <boolean name="allow_decode_initial_digit" value="true" />
+    <boolean name="kc_enable_touch_history" value="true" />
+    <boolean name="enable_handle_emoji_for_expression_candidates" value="true" />
+    <boolean name="enable_link_suggestion_in_agsa" value="true" />
+    <boolean name="show_clipboard_chip_after_clicked" value="true" />
+    <string name="dynamic_rate_limit_scaling_strategy">EXPONENTIAL</string>
+    <string name="expressive_stickers_grpc_hostname">sticker-pa.googleapis.com</string>
+    <long name="dynamic_rate_limiter_max_limit_ms" value="86400000" />
+    <long name="crank_max_char_num_limit" value="30" />
+    <string name="avatar_stickers_metadata_version">00040801</string>
+    <boolean name="fast_access_bar_enable_frequently_used" value="true" />
+    <boolean name="http_client_disable_cronet_grpc" value="true" />
+    <boolean name="lstm_run_listeners_in_background" value="true" />
+    <string name="content_suggestion_app_whitelist">-com.facebook.katana,-com.facebook.pages.app</string>
+    <long name="delight_apps_metadata_version" value="-1" />
+    <string name="fallback_ondevice_input_method_entries">de-DE,en-AU,en-CA,en-GB,en-IN,en-US,es-ES,es-US,fr-FR,hi-IN,id-ID,it-IT,nl-NL,pt-BR,ru-RU</string>
+    <float name="ranker_additional_weight_nwp_and_other" value="0.0" />
+    <boolean name="enable_variants_indicator_in_emoji_search_result" value="true" />
+    <string name="avatar_stickers_api_key">AIzaSyBeuEkY825uj8CHZSSO0NU6Kl67zjwHeyM</string>
+    <boolean name="enable_fallback_ondevice_recognizer" value="true" />
+    <boolean name="enable_tapped_key_check_in_prediction_cache" value="true" />
+    <boolean name="enable_mixed_spatial_model" value="true" />
+    <boolean name="tiresias_log_training_context" value="true" />
+    <boolean name="delete_persisted_bad_words" value="true" />
+    <long name="nga_mic_tap_handshake_timeout_ms" value="1000" />
+    <boolean name="support_disable_ac_revert" value="true" />
+    <long name="nwp_num_beam_width" value="10" />
+    <boolean name="enable_input_action_collection_migrator" value="true" />
+    <string name="content_suggestion_tenor_collection_url_param">emoji_kitchen_v5_and_sticker_prediction_wordart_v3</string>
+    <boolean name="enable_single_word_suggestions_as_inline_from_crank_transformer" value="true" />
+    <boolean name="support_reject_post_correction" value="true" />
+    <long name="c2q_superpacks_manifest_version_pt" value="5" />
+    <boolean name="force_autocorrection_in_agsa" value="true" />
+    <boolean name="enable_voice_donation_flow" value="true" />
+    <long name="max_feature_header_pack_impressions" value="5" />
+    <long name="inline_suggestion_tooltip_max_num_shown" value="3" />
+    <boolean name="enable_inline_suggestions_on_client_side" value="true" />
+    <string name="pair_replace_penalty"></string>
+    <long name="extends_touch_below_space_height" value="24" />
+    <boolean name="spellchecker_always_show_suggestions" value="true" />
+    <long name="c2q_pill_popup_rate_limit_ms" value="1000" />
+    <long name="show_branding_interval_seconds" value="86400000" />
+    <boolean name="fast_access_bar_disable_settings_option" value="true" />
+    <float name="mwp_threshold_score" value="0.68" />
+    <boolean name="enable_contextual_bitmoji_query_provider" value="true" />
+    <boolean name="show_suggestions_for_selected_text_while_dictating" value="true" />
+    <boolean name="enable_expression_candidate_precaching_for_bitmoji" value="true" />
+    <long name="key_correction_tflite_model_superpacks_manifest_version" value="2020082801" />
+    <boolean name="minimize_emoji_category_height" value="true" />
+    <long name="max_candidates_to_log_decoder_ids" value="3" />
+    <string name="emoji_compat_app_whitelist">com.facebook.katana,com.facebook.orca,com.google.android.apps.messaging,com.whatsapp</string>
+    <long name="mwp_min_supported_version" value="20190725" />
+    <long name="min_cooldown_rejected_feature_header_pack_millis" value="86400000" />
+    <float name="concept_prediction_neutral_triggering_weight" value="1.0" />
+    <boolean name="hide_offline_speech_recognition" value="true" />
+    <boolean name="hide_suggestions_in_opa" value="true" />
+    <boolean name="dlam_training_enabled" value="true" />
+    <boolean name="nga_enable_firstrun_flow" value="true" />
+    <float name="threshold_for_candidates_from_user_history" value="-2.0" />
+    <boolean name="enable_expression_content_cache" value="true" />
+    <float name="literal_start_penalty_any_autocor_relative_step" value="0.0033333" />
+    <boolean name="enable_dynamic_art" value="true" />
+    <boolean name="enable_full_backup_content" value="true" />
+    <boolean name="nga_use_dotkit_mic" value="true" />
+    <boolean name="enable_core_typing_experience_indicator_on_candidates" value="true" />
+    <long name="expressive_concept_triggering_superpacks_manifest_version" value="2020112917" />
+    <string name="__bytes__hmm_data_zh_cn">CgV6aF9DThJ0ElBodHRwczovL3d3dy5nc3RhdGljLmNvbS9hbmRyb2lkL2tleWJvYXJkL2htbXBh&#10;Y2svMjAxOTA4MjAwOS96aF9DTl8yMDE5MDgyMDA5LnppcCCm0pkEOhB6aF9DTl8yMDE5MDgyMDA5&#10;WgcKBSIDCgEqeAFQmf7iwgdwAA==&#10;    </string>
+    <string name="delight_overrides_metadata_uri"></string>
+    <long name="minimum_bitmoji_content_provider_api_version" value="1113007030" />
+    <string name="expressive_stickers_metadata_version">1000028</string>
+    <boolean name="enable_email_provider_completion" value="true" />
+    <float name="punctuation_prediction_penalty" value="0.8" />
+    <boolean name="disable_ac_on_manual_capitalized_words" value="true" />
+    <boolean name="enable_backup_mozc" value="true" />
+    <boolean name="override_literal_penalties_in_email_input_box" value="true" />
+    <string name="expressive_concept_triggering_supported_language_tags">en,es,pt</string>
+    <string name="conv2query_extension_locales">de,fr,it,ms,ta</string>
+    <string name="dynamic_rate_limit_candidate_types">GIF_SEARCHABLE_TEXT,EXPRESSION_SEARCHABLE_TEXT</string>
+    <boolean name="remove_bitmoji_contextual_category_text" value="true" />
+    <float name="post_correction_min_improvement_for_nontrivial" value="1.0" />
+    <string name="s3_asr_language_tags_list">af,am,ar-ae,ar-bh,ar-dz,ar-eg,ar-iq,ar-ly,ar-ma,ar-mr,ar-om,ar-sa,ar-sd,ar-td,ar-tn,ar-x-levant,ar-ye,az-az,bg,bn-bd,bn-in,bn-latn,bs,ca,ca-xq,cs,da,de-at,de-be,de-ch,de-de,de-lu,el-cy,el-gr,en-au,en-ca,en-gb,en-in,en-ke,en-ng,en-ph,en-us,en-za,es-419,es-ar,es-es,es-mx,es-us,et-ee,eu-es,fa,fi,fr-002,fr-be,fr-ca,fr-ch,fr-fr,gl-es,gu-in,gu-latn,hi-in,hi-latn,hr,hu,hy-am,in,is,it-ch,it-it,iw-il,ja-jp,jv-latn,ka-ge,kk,km-kh,kn-in,kn-latn,ko,lo-la,lt,lv,mk,ml-in,ml-latn,mn-mn,mr-in,mr-latn,ms-bn,ms-my,ms-sg,my,nb,ne-in,ne-latn,ne-np,nl-be,nl-nl,pa-guru,pa-latn,pl,pt-002,pt-ao,pt-br,pt-mo,pt-pt,ro-md,ro-ro,ru-by,ru-kg,ru-ru,si-lk,sk,sl,sq-x-standard,sr-latn-rs,srp-latn-me,su-latn,sv-fi,sv-se,sw,ta-in,ta-latn,ta-lk,ta-sg,te-in,te-latn,th-th,tl,tr-cy,tr-tr,uk,ur-in,ur-latn,ur-pk,uz-latn,vi,zh-cn,zh-hk,zh-tw,zu</string>
+    <string name="multiword_candidate_language_tags">en-US</string>
+    <boolean name="enable_handle_bitmoji_for_expression_candidates" value="true" />
+    <float name="enable_higher_keyboard_max_system_bottom_gap_inch" value="0.0" />
+    <boolean name="enable_handle_concept_for_expression_candidates" value="true" />
+    <boolean name="nga_enable_mic_button_when_dictation_eligible" value="true" />
+    <boolean name="silk_popup" value="true" />
+    <string name="lstm_federated_training_population">gboard/language_model/brella/beta</string>
+    <long name="gesture_handle_unknown_action_strategy" value="1" />
+    <long name="limit_gif_search_query_suggestion" value="2" />
+    <long name="clipboard_screenshot_tooltip_max_times_to_show" value="5" />
+    <boolean name="fast_access_bar_enable_designated_variant" value="true" />
+    <boolean name="tv_new_layout_study_enabled" value="true" />
+    <float name="fast_access_bar_variant_size_ratio" value="1.5" />
+    <long name="tenor_max_sentence_word_num" value="5" />
+    <long name="delight_latest_metadata_version" value="2021052600" />
+    <boolean name="enable_delphi" value="true" />
+    <long name="featured_recommendations_max_recommended" value="4" />
+    <long name="executor_pool_version" value="1" />
+    <boolean name="prioritize_popular_category_in_bitmoji_tab" value="true" />
+    <boolean name="enable_emoji_to_expression_tappable_ui" value="true" />
+    <boolean name="enable_sponsored_gif_campaign_manager_reporting" value="true" />
+    <float name="multiword_threshold_score" value="3.0" />
+    <boolean name="enable_dynamic_rate_limiter" value="true" />
+    <float name="key_sliding_threshold" value="0.0" />
+    <boolean name="enable_auto_submit_fake_app_completion" value="true" />
+    <boolean name="tiresias_training_log_tf_error_messages" value="true" />
+    <boolean name="log_coalesced_spans_before_reset" value="true" />
+    <boolean name="dynamic_rate_limit_store_impressions_in_preferences" value="true" />
+    <long name="device_intelligence_min_gms_version_supported" value="203012000" />
+    <long name="tiresias_training_minimum_sessions" value="1" />
+    <long name="emojipickerv2_columns" value="9" />
+    <boolean name="enable_bitmoji_alley_oop" value="true" />
+    <long name="timer_default_sample_rate" value="500" />
+    <string name="key_locale_cutout_switches_lm">en-US,pt-BR,in-ID,en-AU,es-MX,en-NG,en-CA,es-AR</string>
+    <boolean name="spellchecker_enable_rule_trigger" value="true" />
+    <long name="sharing_notice_max_display_times" value="1" />
+    <float name="regular_candidate_language_score_threshold_offset" value="0.0" />
+    <string name="__bytes__inline_suggestion_app_to_right_boundary_ratio">CiwKIGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmR5bmFtaXRlFUjhej8dMzNzPwolChdjb20uZ29v&#10;Z2xlLmFuZHJvaWQudGFsaxVI4Xo/HTMzcz8gDwodChFjb20uZmFjZWJvb2sub3JjYRWamVk/HRSu&#10;Rz8KGgoMY29tLndoYXRzYXBwFZqZWT8dFK5HPyASCiMKF2NvbS5nb29nbGUuYXV4ZS5jb21wb3Nl&#10;FZqZWT8dmplZPwokChZvcmcudGVsZWdyYW0ubWVzc2VuZ2VyFXsUbj8dmplZPyASCiMKFWpwLm5h&#10;dmVyLmxpbmUuYW5kcm9pZBWamVk/Hc3MTD8gDwogChJjb20uYWlyYm5iLmFuZHJvaWQVmplZPx3N&#10;zEw/IBEKKAocY29tLnZlcml6b24ubWVzc2FnaW5nLnZ6bXNncxWamVk/HRSuRz8KFwoJY29tLlNs&#10;YWNrFUjhej8d9ihcPyAPChkKC2NvbS5kaXNjb3JkFZqZWT8dMzMzPyAO&#10;    </string>
+    <float name="multiword_gesture_cost" value="5.0" />
+    <long name="nwp_min_words_predicted" value="2" />
+    <boolean name="enable_micore_shared_executor" value="true" />
+    <boolean name="enable_data_file_manager" value="true" />
+    <string name="federatedc2q_prediction_model_variant">tflite_glowg_click_20190522</string>
+    <float name="gesture_spatial_score_scale_decay_base" value="0.8" />
+    <boolean name="enable_emoji_icon_action_color" value="true" />
+    <boolean name="enable_bitmoji_sharing_api" value="true" />
+    <boolean name="enable_ondevice_recognizer" value="true" />
+    <boolean name="enable_bitmoji_contextual_category_icon" value="true" />
+    <boolean name="enable_youtube_ime_private_options_search" value="true" />
+    <boolean name="suggest_reverted_gesture" value="true" />
+    <float name="space_left_sigma_y" value="0.01" />
+    <boolean name="enable_heuristic_trigger_predictor" value="true" />
+    <long name="c2q_pill_popup_max_rate_limit_ms" value="2592000000" />
+    <boolean name="enable_backup_customized_theme" value="true" />
+    <boolean name="enable_log_for_dump" value="true" />
+    <boolean name="show_slowness_report_ui" value="true" />
+    <long name="expression_candidates_max_bitmoji_cache_size" value="256" />
+    <float name="dictation_donation_tier_long_tail_probability" value="0.0" />
+    <string name="__bytes__hmm_data_zh_hk">CgV6aF9ISxJ0ElBodHRwczovL3d3dy5nc3RhdGljLmNvbS9hbmRyb2lkL2tleWJvYXJkL2htbXBh&#10;Y2svMjAxODA3MDIwOC96aF9IS18yMDE4MDcwMjA4LnppcCDJ69UEOhB6aF9IS18yMDE5MDEwNDA0&#10;WgcKBSIDCgEqeAFQ5M7ewgdwAA==&#10;    </string>
+    <string name="contextual_bitmoji_category_enabled_languages">-</string>
+    <long name="nga_backspace_behavior" value="1" />
+    <boolean name="enable_autoregressive_model" value="true" />
+    <boolean name="enable_emoji_candidate_render_filter" value="true" />
+    <float name="nsm_spatial_score_scale" value="0.0" />
+    <float name="key_correction_default_tap_key_score" value="2.06E-9" />
+    <boolean name="ekho_compact_backend_enabled" value="true" />
+    <boolean name="enable_fast_access_bar_auto_add_space" value="true" />
+    <long name="tiresias_training_period_seconds" value="3600" />
+    <boolean name="enable_emoji_kitchen_mixing" value="true" />
+    <boolean name="enable_fallback_on_s3_connection_failure" value="true" />
+    <boolean name="enable_slowness_detect" value="true" />
+    <long name="c2q_superpacks_manifest_version_en" value="20" />
+    <string name="theme_indices_superpacks_manifest_url">https://www.gstatic.com/android/keyboard/modelpack/theme_indices/201903111437/superpacks_manifest.json</string>
+    <boolean name="enable_multiword_suggestions" value="true" />
+    <long name="min_chars_for_emoji_shortcut_secondary_key_lookup" value="1" />
+    <long name="federatedc2q_training_cache_max_ttl_days" value="63" />
+    <boolean name="enable_fallback_art_corpus_to_universal_media" value="true" />
+    <string name="scrollable_suggestions_app_whitelist"></string>
+    <long name="profiling_clockid" value="2" />
+    <float name="gesture_spatial_score_scale_decay_ratio" value="1.0" />
+    <long name="count_threshold_for_candidates_from_user_history" value="1" />
+    <boolean name="emotion_model_enabled" value="true" />
+    <float name="dictation_donation_en_us_tier_probability" value="0.0" />
+    <boolean name="tiresias_enabled" value="true" />
+    <long name="c2q_superpacks_manifest_version_es" value="8" />
+    <long name="handwriting_superpacks_manifest_version" value="58" />
+    <boolean name="add_featured_pack_on_sticker_share" value="true" />
+    <long name="tiresias_personalization_training_period_seconds" value="21600" />
+    <float name="sticker_pack_recommendations_shared_packs_weight" value="1.0" />
+    <boolean name="support_post_correction_for_gesture" value="true" />
+    <boolean name="expression_candidates_require_downloaded_bitmoji_images" value="true" />
+    <boolean name="in_memory_bad_words" value="true" />
+    <boolean name="phonetic_output_enabled" value="true" />
+    <long name="bitmoji_max_sentence_word_num" value="20" />
+    <boolean name="incrementally_initialize_oovs" value="true" />
+    <string name="c2q_superpacks_manifest_url_zh_cn"></string>
+    <long name="nwp_min_supported_version" value="20190717" />
+    <float name="fraction_time_ratio_threshold" value="0.0" />
+    <boolean name="enable_oov_deduplication" value="true" />
+    <boolean name="enable_rotate_fake_app_completion" value="true" />
+    <boolean name="phenotype_flag_pushed" value="true" />
+    <float name="concept_prediction_incomplete_sentence_score_weight" value="1.0" />
+    <boolean name="avoid_set_composing_region_after_cursor" value="true" />
+    <string name="transposition_pair_cost"></string>
+    <string name="dictation_donation_tier_two">hi-IN,fr-FR,it-IT,id-ID,es-ES,ja-JP,de-DE,en-AU,ru-RU,en-PH</string>
+    <long name="tiresias_max_ttl_days" value="63" />
+    <long name="expression_candidates_max_bitmoji_images_per_query" value="1" />
+    <float name="sticker_pack_recommendations_favorited_packs_weight" value="1.0" />
+    <string name="__bytes__touch_center_adaptation_settings">CAQYyAEgB0AP&#10;    </string>
+    <string name="menes_multi_trainers_population">gboard/menes/beta/in</string>
+    <string name="maestro_system_locale_whitelist"></string>
+    <long name="c2q_superpacks_manifest_version_de" value="5" />
+    <long name="theme_indices_superpacks_manifest_version" value="1" />
+    <float name="language_kernel_param" value="0.25" />
+    <long name="delight_latest_overrides_metadata_version" value="-1" />
+    <boolean name="enable_whatsapp_sticker_webp" value="true" />
+    <float name="angle_threshold" value="0.9" />
+    <long name="content_cache_cached_images_ttl_hours" value="336" />
+    <float name="post_correction_language_score_threshold_slope" value="-100.0" />
+    <float name="key_gaussian_width_multiplier" value="1.0" />
+    <boolean name="glide_use_async_url_loader" value="true" />
+    <float name="space_left_center_y" value="-0.05" />
+    <float name="gesture_end_key_align_score_scale" value="1.0" />
+    <boolean name="animate_first_content_suggestion_results" value="true" />
+    <boolean name="enable_voice_ellipsis" value="true" />
+    <boolean name="enable_permission_overlay" value="true" />
+    <boolean name="enable_auto_float_keyboard_in_landscape" value="true" />
+    <long name="webp_sticker_fallback_compression_quality" value="50" />
+    <boolean name="enable_user_history_predictions_as_inline_from_crank_cifg" value="true" />
+    <long name="add_pending_oovs_on_create_max_ms" value="500" />
+    <boolean name="silk_on_all_pixel" value="true" />
+    <long name="learning_rate_for_selected_suggestion" value="1" />
+    <boolean name="enable_zero_state_candidates" value="true" />
+    <string name="featured_category_sticker_pack_id_override"></string>
+    <float name="ranker_additional_weight_intercept_emoji" value="0.0" />
+    <long name="concept_prediction_num_predictions" value="3" />
+    <boolean name="enable_whatsapp_sticker_libwebp" value="true" />
+    <boolean name="enable_multiword_predictions" value="true" />
+    <boolean name="enable_migration" value="true" />
+    <boolean name="enable_ufc_for_speed" value="true" />
+    <boolean name="fast_access_bar_enable_offboarding_tooltip" value="true" />
+    <string name="enable_sticker_candidate_language_tags">en,es,pt</string>
+    <float name="space_right_center_y" value="-0.05" />
+    <boolean name="retain_emoji_shortcut_candidates_on_selection" value="true" />
+    <boolean name="enable_voice_in_korean" value="true" />
+    <long name="profiling_freq_ms_decode_gesture" value="1" />
+    <boolean name="enable_voice_in_chinese" value="true" />
+    <long name="training_process_termination_interval_millis" value="7200000" />
+    <long name="user_history_learning_strategies" value="1" />
+    <boolean name="enable_predictions_from_emoji_shortcuts" value="true" />
+    <boolean name="crank_trigger_decoder_inline_prediction_first" value="true" />
+    <boolean name="enable_highlight_voice_reconversion_composing_text" value="true" />
+    <boolean name="tiresias_speech_personalization_enabled" value="true" />
+    <boolean name="enable_show_disabled_mic" value="true" />
+    <float name="ranker_additional_penalty_decoder_static_lm_candidates" value="-4.0" />
+    <long name="keycenter_sample_size" value="1" />
+    <boolean name="keyboard_redesign_google_sans" value="true" />
+    <boolean name="phenotype_based_fl_status" value="true" />
+    <boolean name="enable_crank_for_primary_locale_in_multilingual" value="true" />
+    <float name="post_correction_language_score_threshold_offset" value="-100.0" />
+    <boolean name="enable_content_suggestion_metadata_network_requests" value="true" />
+    <boolean name="enable_crank_for_first_supported_locale_in_multilingual" value="true" />
+    <long name="max_oov_candidate_count" value="-1" />
+    <boolean name="nga_use_assistant_ring_ui" value="true" />
+    <float name="dominate_threshold_for_single_word_predictions" value="-0.69315" />
+    <long name="globe_key_ignore_time_interval" value="500" />
+    <boolean name="merge_bitmoji_contextual_packs" value="true" />
+    <boolean name="enable_training_cache_metrics_processors" value="true" />
+    <long name="enabled_keyboard_behavior_experiments" value="1" />
+    <string name="tenor_server_url_search_suggestions_v2">https://tenor.googleapis.com/v2/search_suggestions</string>
+    <boolean name="enable_triggering_model" value="true" />
+    <boolean name="enable_device_intelligence_source_platform" value="true" />
+    <long name="crank_engine_timeout_millis" value="30" />
+    <long name="repeat_key_max_time_delta" value="5000" />
+    <long name="cross_lingual_ac_suppression_mode" value="1" />
+    <long name="pill_shaped_key_new_user_timestamp" value="1" />
+    <string name="cross_lingual_ac_suppression_score_diff_override"></string>
+    <long name="max_num_of_bitmoji_contextual_packs_merged" value="3" />
+    <boolean name="enable_backup_personal_dictionary" value="true" />
+    <float name="disable_ac_edit_distance_slope" value="0.0" />
+    <long name="max_chinese_context_length" value="5" />
+    <string name="c2q_superpacks_manifest_url_ja"></string>
+    <float name="nwp_threshold_for_three_or_more_words_completions" value="-0.4" />
+    <boolean name="enable_variants_indicator_in_symbols_keyboard" value="true" />
+    <string name="enable_tenor_trending_term_v2_for_language_tags"></string>
+    <long name="mwp_manifest_version" value="20200424" />
+    <long name="training_cache_max_ttl_days" value="63" />
+    <long name="wait_ic_call_timeout" value="100" />
+    <boolean name="enable_delphi_in_product_control" value="true" />
+    <boolean name="enable_migrate_to_de_storage" value="true" />
+    <string name="c2q_superpacks_manifest_url_it">https://www.gstatic.com/android/keyboard/conv2query/Z/it/no-web-search/superpacks_manifest_it.zip</string>
+    <boolean name="enable_inline_suggestions_tooltip_v2" value="true" />
+    <boolean name="report_decoder_state_to_better_bug" value="true" />
+    <boolean name="use_soda_jni_lib" value="true" />
+    <boolean name="rescore_result_based_on_final_used_candidates" value="true" />
+    <float name="nwp_threshold_for_two_words_completions" value="-0.4" />
+    <long name="high_order_effective_count_threshold" value="1" />
+    <float name="angle_diff" value="0.5" />
+    <boolean name="enable_multiword_predictions_as_inline_from_crank_transformer" value="true" />
+    <boolean name="enable_content_suggestion_recents" value="true" />
+    <float name="nwp_threshold_for_two_words_predictions" value="-1.25" />
+    <boolean name="tiresias_training_requires_idle" value="true" />
+    <float name="default_replace_penalty" value="0.0" />
+    <string name="emotion_model_enabled_locales">en</string>
+    <float name="gesture_key_error_sigma" value="0.7" />
+    <string name="c2q_superpacks_manifest_url_fr">https://www.gstatic.com/android/keyboard/conv2query/Z/fr/no-web-search/superpacks_manifest_fr.zip</string>
+    <boolean name="contextual_appindexing_context_enabled" value="true" />
+    <long name="heighten_bottom_row_dp" value="1" />
+    <long name="time_interval_percentile" value="90" />
+    <boolean name="enable_multiword_predictions_as_inline_from_crank_cifg" value="true" />
+    <long name="training_process_termination_strategy" value="1" />
+    <string name="speech_superpacks_manifest_url">https://dl.google.com/android/voice/gboard/en_us/ondevice_recognizer/superpacks-manifest-20200831.json</string>
+    <string name="nebulae_trainer_population">gboard/nebulae/beta/india</string>
+    <boolean name="enable_handling_concepts_for_contextual_bitmoji" value="true" />
+    <long name="max_latin_in_t13n_multilingual" value="2" />
+    <boolean name="lm_personalization_enabled" value="true" />
+    <string name="expressive_concept_triggering_superpacks_manifest_url">https://www.gstatic.com/android/keyboard/modelpack/expressive_concepts_triggering/2020112917/superpacks_manifest.json</string>
+    <long name="autocorrection_disabled_candidate_type_bitmask" value="8200" />
+    <boolean name="normalize_lm_score_for_nearby_key" value="true" />
+    <long name="expressive_concept_emoji_predictor_max_num_words" value="50" />
+    <long name="pseudo_spellchecker_mode" value="1" />
+    <boolean name="no_draw_before_ready" value="true" />
+    <string name="dynamic_rate_limit_interaction_strategy">RESET</string>
+    <string name="fast_access_bar_app_whitelist">com.whatsapp,com.facebook.orca,com.facebook.katana,com.facebook.lite,com.android.mms,com.google.android.apps.messaging,com.google.android.youtube,com.snapchat.android,com.verizon.messaging.vzmsgs,com.viber.voip,com.google.android.gm,com.discord</string>
+    <boolean name="enable_matched_predictions_as_completions_from_crank_cifg" value="true" />
+    <boolean name="enable_handle_tenor_for_expression_candidates" value="true" />
+    <boolean name="enable_settings_search" value="true" />
+    <boolean name="ja_omit_support_label" value="true" />
+    <boolean name="superpacks_enable_history_trace" value="true" />
+    <string name="contextual_emoji_suggestion_enabled_languages">en</string>
+    <boolean name="enable_auto_float_keyboard_in_freeform" value="true" />
+    <boolean name="emoji_keyboard_prewarm_enabled" value="true" />
+    <string name="delete_character_on_content_suggestion_interaction_app_restriction">-com.google.android.gm</string>
+    <long name="lang_id_manifest_version" value="20191018" />
+    <float name="secondary_emoji_shortcut_candidates_score" value="-25.0" />
+    <string name="federatedc2q_brella_in_app_training_population">gboard/glowg/brella/beta</string>
+    <boolean name="prevent_fallback_input_connection" value="true" />
+    <string name="speech_superpacks_small_lps_manifest_url">https://dl.google.com/android/voice/gboard/terse/superpacks-manifest-small-rnnt.json</string>
+    <string name="c2q_superpacks_manifest_url_en">https://www.gstatic.com/android/keyboard/conv2query/Z/en/no-web-search/superpacks_manifest_en.zip</string>
+    <long name="bitmoji_share_api_timeout_ms" value="8000" />
+    <boolean name="enable_soda_fallback_ondevice_recognizer" value="true" />
+    <boolean name="fast_access_bar_enable_onboarding_tooltip_v2" value="true" />
+    <float name="min_lm_score_for_best_key_consideration" value="0.0" />
+    <boolean name="support_post_correction_for_single_letter_word" value="true" />
+    <string name="access_points_order">sticker;gif_search;settings;translate;theme_setting;clipboard;textediting;share;one_handed;floating_keyboard;search</string>
+    <boolean name="enable_correct_globe_to_neighbor_keys" value="true" />
+    <boolean name="enable_voice_promo" value="true" />
+    <string name="c2q_superpacks_manifest_url_es">https://www.gstatic.com/android/keyboard/conv2query/Z/es/no-web-search/superpacks_manifest_es.zip</string>
+    <string name="content_cache_superpacks_manifest_url">https://www.gstatic.com/android/keyboard/modelpack/contentcache/202105250619/superpacks_manifest.json</string>
+    <long name="pruning_max_chars_to_read_before_or_after_cursor" value="40" />
+    <boolean name="enable_emoji_frequent_recent_switch_option" value="true" />
+    <long name="nga_min_version_code_for_grpc" value="-1" />
+    <boolean name="show_voice_reconversion_suggestion_as_chip" value="true" />
+    <boolean name="enable_contextual_emoji_suggestion" value="true" />
+    <long name="min_oov_candidate_frequency" value="1" />
+    <boolean name="enable_single_word_predictions_as_inline_from_crank_transformer" value="true" />
+    <string name="__bytes__webp_sticker_animated_options">EAkYETAARQAAyEFIAlAAkAKIJ5gCoMIe&#10;    </string>
+    <string name="__bytes__expressive_stickers_market_config">IghwYWNrcy8yNCIIcGFja3MvMjUiDHBhY2tzLzIwMDAwMiIIcGFja3MvMjMiDHBhY2tzLzIwMDAw&#10;NTIMcGFja3MvNDI5Njk5MghwYWNrcy8yNDIIcGFja3MvMjUyCHBhY2tzLzI5MgxwYWNrcy8yMDAw&#10;MDIyDHBhY2tzLzIwMDAwMzIMcGFja3MvNjAwMjAxMgxwYWNrcy82MDAyMDIyDHBhY2tzLzc5NjAx&#10;MDIMcGFja3MvNzk2MDIwMgxwYWNrcy8yMDAwMDEyDHBhY2tzLzIwMDAwNTIMcGFja3MvNjAwMzAz&#10;MgxwYWNrcy82MDAzMDIyDHBhY2tzLzYwMDMwMTIMcGFja3MvNjAwMzA2MghwYWNrcy8yMzIMcGFj&#10;a3MvMjAwMDA0MghwYWNrcy8yNzIIcGFja3MvMzAyDHBhY2tzLzYwMDEwMTIMcGFja3MvNjAwMTAz&#10;MgxwYWNrcy82MDAxMDIyCHBhY2tzLzI2MghwYWNrcy8zMTIIcGFja3MvMjgyDHBhY2tzLzc4OTAw&#10;MTIMcGFja3MvODgwODAzMgxwYWNrcy83OTkwMjAyDHBhY2tzLzczMDcwMjIMcGFja3MvNzMwNzA0&#10;MgxwYWNrcy83OTkwMzAyDHBhY2tzLzg4MDIwMDIMcGFja3MvODgwMTk4MgxwYWNrcy84ODA4MTAy&#10;DHBhY2tzLzg4MDgwNDIMcGFja3MvMTAwMDAyMgxwYWNrcy8xMDAwMDEyDHBhY2tzLzg4MDgwMTIM&#10;cGFja3MvODgwODAyMgxwYWNrcy85OTkwMTAyDHBhY2tzLzczMDcwMzIMcGFja3MvODgwODA1Mgxw&#10;YWNrcy84ODA4MDYyDHBhY2tzLzg4MDgwODIMcGFja3MvODgwODA5MgxwYWNrcy84ODA4MDcyDHBh&#10;Y2tzLzc4OTAwNTIMcGFja3MvNzg5MDA0MgxwYWNrcy83ODkwMDIyDHBhY2tzLzc4OTAwMzIMcGFj&#10;a3MvODgwNTAyMgxwYWNrcy84ODA1MDEyB3BhY2tzLzgyDHBhY2tzLzg4MDE5NDIMcGFja3MvNzc3&#10;NjY2MgdwYWNrcy82MgdwYWNrcy8xMgdwYWNrcy8yMgdwYWNrcy80MghwYWNrcy8xMzIIcGFja3Mv&#10;MTQyCHBhY2tzLzE1MghwYWNrcy8xNjIMcGFja3MvODgwMzA4MgxwYWNrcy84ODAxOTYyDHBhY2tz&#10;Lzg4MDMwOTIMcGFja3MvNzkyMDEwMghwYWNrcy8xODIIcGFja3MvMTkyCHBhY2tzLzIwMghwYWNr&#10;cy8yMTIMcGFja3MvNTQ3NjE4MgxwYWNrcy82MDE5NDMyDHBhY2tzLzYxMzQ2ODIMcGFja3MvNzk5&#10;MDEwMgxwYWNrcy84ODA2MDEyDHBhY2tzLzg4MDE5MTIMcGFja3MvODgwMTkyMgxwYWNrcy84ODAx&#10;OTkyDHBhY2tzLzg4MDE5MzIMcGFja3MvODgwMTk1MgxwYWNrcy84ODAxOTcyDHBhY2tzLzg4MDMw&#10;MTIMcGFja3MvODgwMzAyMgxwYWNrcy84ODAzMDMyDHBhY2tzLzg4MDMwNDIMcGFja3MvODgwMzA1&#10;MgxwYWNrcy84ODAzMDcyCHBhY2tzLzEyMgxwYWNrcy84ODA0MDEyCHBhY2tzLzE3MgxwYWNrcy84&#10;ODAyMDIyB3BhY2tzLzUyB3BhY2tzLzMyB3BhY2tzLzkyDHBhY2tzLzgwNjI1ODIIcGFja3MvMjIy&#10;CHBhY2tzLzEwMgdwYWNrcy83MgxwYWNrcy85NDc5OTEyDHBhY2tzLzc5MzAxMDIMcGFja3MvNzkz&#10;MDIwMgxwYWNrcy83OTMwMzAyDHBhY2tzLzc5OTA1MDIMcGFja3MvNzk5MDYwMgxwYWNrcy83OTkw&#10;NzAyDHBhY2tzLzc5NDAxMDIMcGFja3MvNzk0MDIwMgxwYWNrcy83OTQwMzAyDHBhY2tzLzc5MTAx&#10;MDIMcGFja3MvNzkxMDIwMgxwYWNrcy83OTEwMzAyDHBhY2tzLzc3NzgxMDIMcGFja3MvNzc3ODIw&#10;MgxwYWNrcy83Nzc4MzAyDHBhY2tzLzc3Nzg0MDIMcGFja3MvNzc3ODUwMgxwYWNrcy83OTUwMTAy&#10;DHBhY2tzLzc4OTAwNjIMcGFja3MvNzc3NzAxMgxwYWNrcy83Nzc3MDIyDHBhY2tzLzc3NzcwMzIM&#10;cGFja3MvNzc3NzA0MgxwYWNrcy83Nzc3MDUyDHBhY2tzLzczMDI2NTIMcGFja3MvNzMwNzAxMgxw&#10;YWNrcy83MzA1MDEyDHBhY2tzLzczMDI2MjIMcGFja3MvNzMwMjU1MgxwYWNrcy83MzAyNTEyDHBh&#10;Y2tzLzczMDI1NjIMcGFja3MvMzY4NDc1MgxwYWNrcy83MzAyNTQyDHBhY2tzLzczMDI1OTIMcGFj&#10;a3MvNzMwMjU4MgxwYWNrcy8zNjg0NzMyDHBhY2tzLzM2ODQ3NDIMcGFja3MvMzY4NDcxMgxwYWNr&#10;cy83MzAyNTMyDHBhY2tzLzczMDI2MTIMcGFja3MvOTQ2OTkzMgxwYWNrcy85NDY5OTUyDHBhY2tz&#10;Lzk0Nzk5MDIMcGFja3MvOTQ5MTAzMgxwYWNrcy85NDkxMDQyDHBhY2tzLzk0OTEwNTIMcGFja3Mv&#10;OTQ5MTA2MgxwYWNrcy85NDkxMTAyDHBhY2tzLzk0OTEwMjIMcGFja3MvOTQ4MDA0MgxwYWNrcy85&#10;NDgwMDIyDHBhY2tzLzk0Njk5MjIMcGFja3MvOTQ5MTA5MgxwYWNrcy85NDkxMDgyDHBhY2tzLzk0&#10;ODAwMTIMcGFja3MvOTQ5MTA3MgxwYWNrcy85NDY5OTAyDHBhY2tzLzk0ODAwMzIMcGFja3MvOTQ5&#10;MDAxMgxwYWNrcy85NDY5OTEyDHBhY2tzLzk0Njk5NDIMcGFja3MvOTQ5MTAxMgxwYWNrcy85NDkw&#10;MDI6E3BhY2tzLzI3L3N0aWNrZXJzLzM6GHBhY2tzLzYwMDEwMy9zdGlja2Vycy8xMDoXcGFja3Mv&#10;NjAwMTAxL3N0aWNrZXJzLzE6FHBhY2tzLzMwL3N0aWNrZXJzLzIxOhRwYWNrcy8yOC9zdGlja2Vy&#10;cy8xNzoUcGFja3MvMjYvc3RpY2tlcnMvMTc6GHBhY2tzLzIwMDAwNC9zdGlja2Vycy8yMDoTcGFj&#10;a3MvMjMvc3RpY2tlcnMvOToTcGFja3MvMjcvc3RpY2tlcnMvMToXcGFja3MvNjAwMTAyL3N0aWNr&#10;ZXJzLzY6GHBhY2tzLzYwMDEwMy9zdGlja2Vycy8xNjoUcGFja3MvMjMvc3RpY2tlcnMvMjM=&#10;    </string>
+    <boolean name="enable_key_center_bounding_box" value="true" />
+    <boolean name="disable_nwp_engine_and_expression_in_search_field" value="true" />
+    <boolean name="disable_vocabulary_capitalization" value="true" />
+    <boolean name="enable_scan_text_label" value="true" />
+    <boolean name="enable_contextual_bitmoji_categories" value="true" />
+    <float name="nwp_threshold_for_three_or_more_words_predictions" value="-1.15" />
+    <boolean name="enable_grammar_checker" value="true" />
+    <boolean name="enable_lens" value="true" />
+    <string name="c2q_superpacks_manifest_url_de">https://www.gstatic.com/android/keyboard/conv2query/Z/de/no-web-search/superpacks_manifest_de.zip</string>
+    <float name="tap_keycenter_offset_weight" value="0.0" />
+    <boolean name="enable_shared_multilingual_user_history_lm" value="true" />
+    <float name="kc_keycenter_variance_weight" value="0.0" />
+    <boolean name="disable_ac_after_apply_combination_rule" value="true" />
+    <boolean name="dlam_ignore_training_threshold" value="true" />
+    <boolean name="enable_magic_g_rate_limit" value="true" />
+    <long name="unified_ime_timeout" value="10000" />
+    <boolean name="enable_expressive_concept_triggering_engine" value="true" />
+    <boolean name="enable_feature_cards" value="true" />
+    <long name="dynamic_rate_limiter_min_limit_ms" value="1" />
+    <float name="sticker_pack_recommendations_favorited_packs_decay" value="0.8" />
+    <boolean name="enable_browse_featured_pack" value="true" />
+    <float name="gesture_first_key_align_score_scale" value="1.5" />
+    <boolean name="fast_access_bar_enable_variants_popup_view" value="true" />
+    <boolean name="reset_typing_latency" value="true" />
+    <long name="c2q_superpacks_manifest_version_zh_cn" value="1" />
+    <boolean name="auto_show_translate" value="true" />
+    <string name="enable_autocorrection_adaptation_locales">*</string>
+    <string name="c2q_superpacks_manifest_url_pt">https://www.gstatic.com/android/keyboard/conv2query/V/pt/glowglist-no-web-search/superpacks_manifest_pt.zip</string>
+    <long name="delay_to_wait_for_suggestions_before_commit_ms" value="40" />
+    <boolean name="filter_bad_words_based_on_final_used_candidates" value="true" />
+    <boolean name="training_cache_storage_no_buffer_for_testing" value="true" />
+    <string name="federatedc2q_shared_urls_corpus_tag"></string>
+    <boolean name="use_sanbox_s3_server" value="true" />
+    <string name="tenor_content_filter_level_for_proactive_surfaces">high</string>
+    <boolean name="use_executor_service_in_metrics" value="true" />
+    <boolean name="enable_training_process_termination" value="true" />
+    <long name="bottom_row_bottom_gap_dp" value="4" />
+    <string name="c2q_superpacks_manifest_url_zh_tw"></string>
+    <long name="dynamic_rate_limiter_constant_add_factor_ms" value="15000" />
+    <boolean name="enable_correct_emoji_to_neighbor_keys" value="true" />
+    <boolean name="enable_export_decoder_state" value="true" />
+    <boolean name="enable_emoji_variant_mapping_for_emoji_candidates" value="true" />
+    <long name="min_char_num_limit_for_single_word_completions" value="9" />
+    <boolean name="nga_enable_sticky_mic" value="true" />
+    <boolean name="enable_animated_whatsapp_sticker_webp" value="true" />
+    <boolean name="require_network_for_emoji_kitchen_mixing" value="true" />
+    <long name="user_history_max_ngram_order_override" value="-1" />
+    <long name="nwp_manifest_version" value="20210331" />
+    <boolean name="enable_tenor_sticker_search" value="true" />
+    <boolean name="enable_promotion_of_multi_term_matches_in_emoji_search" value="true" />
+    <boolean name="enable_variants_indicator_in_emoji_search_filter_view" value="true" />
+    <long name="add_pending_oovs_on_reset_max_ms" value="25" />
+    <string name="key_throttler_extension_language_tags">zh,ko,ja</string>
+    <long name="pruning_min_chars_before_cursor" value="20" />
+    <long name="input_context_copy_rate_limit_us" value="1" />
+    <long name="min_cooldown_added_feature_header_pack_millis" value="1" />
+    <boolean name="nga_enable_spoken_emoji_sticky_variant" value="true" />
+    <long name="inline_suggestion_dismiss_tooltip_delay_time_millis" value="1" />
+    <long name="emoji_predictor_manifest_version" value="20200212" />
+    <boolean name="enable_work_profile" value="true" />
+    <boolean name="enable_ondevice_auto_download" value="true" />
+    <boolean name="enable_clipboard_entity_extraction" value="true" />
+    <long name="spellchecker_max_suggestion_count" value="3" />
+    <boolean name="enable_bitmoji_fetcher" value="true" />
+    <boolean name="nga_show_send_feedback_while_dictating" value="true" />
+    <string name="concept_prediction_supported_language_tags">en,es,pt</string>
+    <long name="webp_minimum_whatsapp_version" value="210116001" />
+    <float name="default_lm_score_for_dot_key" value="-1.0" />
+    <boolean name="enable_new_spellchecker" value="true" />
+    <boolean name="enable_bitmoji_open_search_box" value="true" />
+    <float name="default_lm_score_for_globe_key" value="-1.0" />
+    <long name="contextual_rate_us_interval_rate_limit_days" value="30" />
+    <boolean name="spellchecker_enable_language_trigger" value="true" />
+    <long name="key_correction_speed_limit_millis" value="2000" />
+    <boolean name="enable_spell_check_red_underline" value="true" />
+    <boolean name="enable_merged_key_gaussian_multiplier" value="true" />
+    <boolean name="enable_expression_tall_view" value="true" />
+    <long name="profiling_freq_ms_fetch_suggestions" value="1" />
+    <string name="content_suggestion_language_tag_whitelist">*</string>
+    <long name="webp_sticker_compression_quality" value="75" />
+    <long name="input_context_lock_version" value="12" />
+    <boolean name="enable_transformer_model_for_query_suggestion" value="true" />
+    <boolean name="enable_metrics_trainer" value="true" />
+    <boolean name="enable_show_inline_suggestions_in_popup_view" value="true" />
+    <boolean name="disable_micore_trainer_code_path" value="true" />
+    <boolean name="dlam_require_unmetered_network" value="true" />
+    <long name="profiling_freq_ms_flush_personalized_data" value="1" />
+    <boolean name="enable_sharing" value="true" />
+    <boolean name="ondevice_dictation_performance_evaluation_enabled" value="true" />
+    <string name="one_tap_rich_content_suggestion_query_blacklist"></string>
+    <string name="bitmoji_experiment_tag"></string>
+    <boolean name="enable_nwp_tflite_engine" value="true" />
+    <boolean name="enable_show_browse_tab_default_once" value="true" />
+    <boolean name="enable_send_swipe_on_space_to_app" value="true" />
+    <float name="diacritic_cost_single_letter" value="6.0" />
+    <boolean name="enable_bitmoji_sharing_api_from_gboard" value="true" />
+    <long name="sticker_pack_recommendations_cache_seconds" value="1" />
+    <long name="bitmoji_refresh_duration_hours" value="48" />
+    <boolean name="use_action_down_coordinates_for_decode" value="true" />
+    <long name="nga_mic_tap_timeout_cooldown_mins" value="5" />
+    <string name="c2q_superpacks_manifest_url_ms">https://www.gstatic.com/android/keyboard/conv2query/Z/ms/no-web-search/superpacks_manifest_ms.zip</string>
+    <boolean name="debug_service_enable_latin_basic" value="true" />
+    <float name="glide_memory_cache_screens" value="0.6" />
+    <long name="http_client_cache_expiration_time_in_seconds" value="86400" />
+    <float name="threshold_for_single_word_predictions" value="-0.916" />
+    <float name="extra_event_penalty" value="-2.0" />
+    <long name="non_literal_penalty_mode" value="1" />
+    <boolean name="enable_bitmoji_sharing_api_from_bitmoji" value="true" />
+    <boolean name="handwriting_superpacks_enable_foreground_downloads" value="true" />
+    <long name="inline_suggestion_experiment_version" value="1" />
+    <long name="reduce_logging_max_candidates_to_log" value="3" />
+    <boolean name="enable_nga" value="true" />
+    <boolean name="enable_blacklist_for_sticker_pack_recommendation" value="true" />
+    <boolean name="enable_inline_suggestions_space_tooltip" value="true" />
+    <boolean name="enable_nebulae_materializer_v2" value="true" />
+    <boolean name="prevent_lang_switch_if_committed_text_is_in_vocab" value="true" />
+    <boolean name="enable_emoji_tall_view" value="true" />
+    <long name="limit_bitmoji_search_query_suggestion" value="1" />
+    <boolean name="conv2query_network_status_check_enabled" value="true" />
+    <boolean name="enable_sticker_pack_favorite_history_store" value="true" />
+    <float name="finger_error_sigma" value="0.2" />
+    <boolean name="enable_large_emoji_suggestion" value="true" />
+    <boolean name="enable_stack_trace_logging" value="true" />
+    <boolean name="enable_federated_learning_controls" value="true" />
+    <boolean name="enable_fast_access_bar" value="true" />
+    <float name="key_gaussian_height_multiplier" value="0.7" />
+    <string name="app_completion_attribution"></string>
+    <string name="s3_langid_languages_list">af,ar,bg,ca,cs,da,de,el,en,es,eu,fa,fi,fr,gl,hi,hr,hu,in,is,it,iw,ja,ko,lt,ms,nb,nl,pl,pt,ro,ru,sk,sl,sr,sv,th,tl,tr,uk,vi,zh,zu</string>
+    <long name="min_char_num_limit_for_single_word_predictions" value="9" />
+    <boolean name="reject_nontrivial_postcorrections" value="true" />
+    <long name="content_cache_superpacks_manifest_version" value="2021052506" />
+    <string name="hmm_superpacks_manifest_url">https://www.gstatic.com/android/keyboard/hmmpack/2021011204/metadata_2021011204.json</string>
+    <boolean name="enable_emoji_predictor_tflite_engine" value="true" />
+    <string name="key_correction_tflite_model_superpacks_manifest_url">https://www.gstatic.com/android/keyboard/kc_triggering_model/superpacks-manifest-20200828_154332.json</string>
+    <string name="personalized_ondevice_speech_recognizer_name"></string>
+    <boolean name="use_scrollable_candidate_for_voice" value="true" />
+    <boolean name="enable_zawgyi_style_layout" value="true" />
+    <boolean name="expression_disabled_when_emoji_kb_disallowed" value="true" />
+    <boolean name="native_language_hint_show_search_overlay" value="true" />
+    <string name="nebulae_stable_trainer_population">bogusPopulation</string>
+    <float name="skip_corner_score" value="0.0" />
+    <long name="emoji_superpacks_manifest_version" value="20201201" />
+    <long name="candidate_cache_size" value="5" />
+    <boolean name="lstm_include_language_tag_by_langid" value="true" />
+    <float name="search_radius_weight" value="0.3" />
+    <boolean name="log_all_emoji_shares_to_training_cache" value="true" />
+    <boolean name="enable_header_featured_pack" value="true" />
+    <float name="post_correction_spatial_score_threshold_offset" value="-100.0" />
+    <boolean name="tiresias_enable_voice_logging" value="true" />
+    <long name="contextual_emoji_kitchen_result_ordering_strategy" value="1" />
+    <float name="glide_bitmap_pool_screens" value="0.3" />
+    <float name="query_prediction_score_threshold" value="0.873" />
+    <boolean name="enable_brella_in_app_training" value="true" />
+    <long name="dlam_prob_buckets_num" value="10" />
+    <long name="min_stickers_in_contextual_bitmoji_packs" value="8" />
+    <float name="disable_ac_nearby_substitution_cost" value="0.0" />
+    <boolean name="enable_multilingual_emoji_search" value="true" />
+    <long name="globe_key_ignore_time_interval_for_cjk" value="300" />
+    <long name="native_language_hint_show_notice_max_times" value="3" />
+    <string name="country_cutout_switches_fl">US,USA,840,CA,CAN,124,BR,BRA,076,AU,AUS,036,MX,MEX,484,NG,NGA,566,AR,ARG,032,ES,ESP,724,CO,COL,170,PE,PER,604,CL,CHL,152,GT,GTM,320,VE,VEN,862,EC,ECU,218,IN,IND,356</string>
+    <boolean name="enable_spacebar_mixed_model" value="true" />
+    <long name="limit_bitmoji_contextual_categories_num" value="1" />
+    <string name="crank_ranker_supported_language_tags">en,es,pt</string>
+    <boolean name="enable_partial_commit_in_batch_edit" value="true" />
+    <string name="locales_to_enable_multilingual_language_switch"></string>
+    <boolean name="enable_trainer_manager_v2" value="true" />
+    <float name="space_right_sigma_y" value="0.012" />
+    <boolean name="non_primary_carriage_return" value="true" />
+    <boolean name="enable_single_word_predictions_as_inline_from_crank_cifg" value="true" />
+    <string name="__bytes__tap_spatial_rescore_params"></string>
+    <boolean name="enable_variants_indicator_in_universal_media" value="true" />
+    <boolean name="enable_personalization_tracer" value="true" />
+    <boolean name="enable_soda_ondevice_recognizer" value="true" />
+    <boolean name="enable_one_handed_on_large_screen" value="true" />
+    <boolean name="enable_prioritize_recent_stickers" value="true" />
+    <boolean name="enable_sticker_share_usage_histogram" value="true" />
+    <boolean name="enable_auxiliary_inputmethods_in_language_picker" value="true" />
+    <float name="input_area_bottom_gap_min_screen_height_inches" value="5.2" />
+    <long name="pruning_num_chars_to_trigger_pruning" value="1200" />
+    <boolean name="federatedc2q_conv2query_candidates_enabled" value="true" />
+    <boolean name="native_language_hint_by_system_locales" value="true" />
+    <boolean name="primes_battery_logging_enabled" value="true" />
+    <boolean name="show_clipboard_chip" value="true" />
+    <float name="gesture_keycenter_offset_weight" value="0.0" />
+    <boolean name="default_sticker_tab_open_to_featured_pack" value="true" />
+    <boolean name="tiresias_lm_personalization_enabled" value="true" />
+    <boolean name="enable_content_suggestion_in_emoji_keyboard" value="true" />
+    <long name="max_chars_to_read_before_and_after_cursor" value="60" />
+    <boolean name="enable_tflite_triggering_model_spacebar_only" value="true" />
+    <boolean name="enable_fake_app_completion" value="true" />
+    <float name="triggering_model_threshold" value="0.0" />
+    <long name="federatedc2q_models_metadata_version" value="20190827" />
+    <float name="threshold_for_single_word_completions" value="-8.0" />
+    <boolean name="report_typing_slowness_to_better_bug" value="true" />
+    <boolean name="enable_normal_password_layout" value="true" />
+    <boolean name="enable_inline_suggestions_tooltip" value="true" />
+    <long name="bottom_row_top_gap_dp" value="1" />
+    <boolean name="enable_neural_spatial_model" value="true" />
+    <string name="handwriting_superpacks_manifest_url">https://dl.google.com/handwriting/models/handwriting_release.superpack_manifest.20210322.json</string>
+    <float name="key_gaussian_height_multiplier_for_spacebar" value="-1.0" />
+    <long name="concept_prediction_min_supported_version" value="2020032617" />
+    <boolean name="enable_nebulae_stable_trainer" value="true" />
+    <boolean name="enable_prioritize_recent_gifs" value="true" />
+    <boolean name="enable_bounding_box_offset" value="true" />
+    <string name="tenor_server_url_search_v2">https://tenor.googleapis.com/v2/search</string>
+    <string name="metrics_trainer_population">bogusPopulation</string>
+    <string name="concept_prediction_superpacks_manifest_url">https://www.gstatic.com/android/keyboard/modelpack/transformer_concept/2021012519/superpacks_manifest.json</string>
+    <boolean name="enable_emoji_variant_preferences_backup" value="true" />
+    <boolean name="skip_image_share_request_validation" value="true" />
+    <string name="sharing_notice_app_whitelist">com.whatsapp,com.tencent.mm,org.telegram.messenger,com.facebook.orca,com.android.mms,com.google.android.apps.dynamite,com.google.android.apps.messaging,com.google.android.talk,com.google.android.apps.fireball,com.twitter.android,com.snapchat.android,com.verizon.messaging.vzmsgs,com.facebook.katana,com.instagram.android,com.viber.voip,jp.naver.line.android,kik.android,com.bsb.hike,com.bbm,com.skype.raider,com.facebook.lite,com.tinder,com.textra,com.zing.zalo,com.badoo.mobile,com.grindrapp.android,com.imo.android.imoim,ru.ok.android,com.jb.gosms,com.pof.android</string>
+    <boolean name="enable_keyboard_context" value="true" />
+    <string name="featured_browse_sticker_pack_ids_override"></string>
+    <boolean name="save_non_prime_keyboard_type" value="true" />
+    <long name="autocompletion_disabled_starting_at_length" value="2" />
+    <boolean name="enable_open_access_points_at_zero_state" value="true" />
+    <long name="num_completions_threshold" value="4" />
+    <boolean name="enable_screen_reader_lift_to_type" value="true" />
+    <string name="emotion_model_blacklist"></string>
+    <boolean name="emotion_model_enabled_in_gif_tab" value="true" />
+    <boolean name="enable_last_word_rule_based_concept_prediction" value="true" />
+    <boolean name="enable_nebulae_trainer" value="true" />
+    <long name="content_cache_download_task_delay_ms" value="1" />
+    <boolean name="offline_translate" value="true" />
+    <float name="ranker_additional_weight_slope_emoji" value="0.0" />
+    <float name="min_screen_height_inch_to_apply_bottom_gap" value="5.6" />
+    <float name="default_sample_distance_in_key_widths" value="0.05" />
+    <boolean name="enable_emoji_suggestion_from_top_candidate" value="true" />
+    <long name="prediction_branching_limit" value="1" />
+    <boolean name="enable_assamese_handwriting_layout" value="true" />
+    <boolean name="show_clipboard_chip_after_user_opt_in" value="true" />
+    <boolean name="enable_user_feature_cache" value="true" />
+    <boolean name="keyboard_redesign_forbid_key_shadows" value="true" />
+    <string name="disable_magic_g_rate_limit_locales"></string>
+    <string name="c2q_superpacks_manifest_url_ta">https://www.gstatic.com/android/keyboard/conv2query/Z/ta/no-web-search/superpacks_manifest_ta.zip</string>
+    <string name="country_cutout_switches_dp">AT,AUT,040,BE,BEL,056,BG,BGR,100,CY,CYP,196,CZ,CZE,203,DE,DEU,276,DK,DNK,208,EE,EST,233,ES,ESP,724,FI,FIN,246,FR,FRA,250,GR,GRC,300,HR,HRV,191,HU,HUN,348,IE,IRL,372,IT,ITA,380,LT,LTU,440,LU,LUX,442,LV,LVA,428,MT,MLT,470,NL,NLD,528,PL,POL,616,PT,PRT,620,RO,ROU,642,SE,SWE,752,SI,SVN,705,SK,SVK,703,GB,GBR,826</string>
+    <long name="crank_min_char_num_limit" value="10" />
+    <boolean name="enable_contextual_bitmoji_search_query_suggestions" value="true" />
+    <boolean name="hide_reverted_gesture_candidate" value="true" />
+    <long name="grammar_checker_min_sentence_length" value="1" />
+    <long name="gesture_spatial_score_scale_decay_mode" value="5" />
+    <string name="dictation_donation_tier_one">en-IN,es-US,pt-BR,en-GB</string>
+    <boolean name="enable_twiddler_multiword_engine" value="true" />
+    <boolean name="fast_access_bar_disable_settings_button_when_onboarding" value="true" />
+    <string name="sharing_access_point_app_whitelist">com.whatsapp,com.tencent.mm,org.telegram.messenger,com.facebook.orca,com.android.mms,com.google.android.apps.dynamite,com.google.android.apps.messaging,com.google.android.talk,com.google.android.apps.fireball,com.twitter.android,com.snapchat.android,com.verizon.messaging.vzmsgs,com.facebook.katana,com.instagram.android,com.viber.voip,jp.naver.line.android,kik.android,com.bsb.hike,com.bbm,com.skype.raider,com.facebook.lite,com.tinder,com.textra,com.zing.zalo,com.badoo.mobile,com.grindrapp.android,com.imo.android.imoim,ru.ok.android,com.jb.gosms,com.pof.android</string>
+    <boolean name="federatedc2q_conv2gif_candidates_enabled" value="true" />
+    <string name="enable_tenor_sponsored_gif_for_language_tags"></string>
+    <string name="contextual_emoji_kitchen_supported_languages">en,es,pt</string>
+    <float name="dlam_language_identify_prob_threshold" value="0.3" />
+    <boolean name="log_typo_type_metadata" value="true" />
+    <long name="clipboard_chip_max_times_to_show" value="1" />
+    <long name="concept_prediction_superpacks_manifest_version" value="2021012519" />
+    <long name="max_recommendation_on_browse_page" value="2" />
+    <string name="nwp_superpacks_manifest_uri">https://www.gstatic.com/android/keyboard/next_word_predictor/superpacks-manifest-20210218_192801.json</string>
+    <boolean name="fast_access_bar_enable_instantly_remove" value="true" />
+    <float name="nwp_local_one_step_threshold" value="-1.05" />
+    <string name="emoji_superpacks_manifest_url">https://www.gstatic.com/android/keyboard/modelpack/emoji/20201201175742/superpacks_manifest.zip</string>
+    <long name="fast_access_bar_show_threshold" value="10" />
+    <boolean name="use_touch_down_for_key" value="true" />
+    <boolean name="primes_memory_logging_enabled" value="true" />
+    <boolean name="enable_multiword_suggestions_as_inline_from_crank_cifg" value="true" />
+    <boolean name="expression_candidates_allow_bitmoji_cache_network_requests" value="true" />
+    <boolean name="enable_frequent_emoji_recent_Tab" value="true" />
+    <long name="federatedc2q_training_cache_erasure_period_days" value="63" />
+    <float name="key_gaussian_multiplier" value="1.0" />
+    <float name="gesture_beam_adjustment" value="0.0" />
+    <boolean name="enable_voice_clear_button" value="true" />
+    <string name="enable_tenor_search_v2_for_language_tags">*</string>
+    <string name="one_tap_rich_content_suggestion_query_whitelist">☀️,☁️,☃️,☕,☠️,☹️,☺️,♥️,⛄,✨,❄️,❣️,❤️,❤️‍🔥,❤️‍🩹,⭐,🌈,🌍,🌎,🌏,🌐,🌛,🌜,🌞,🌟,🌠,🌪️,🌫️,🌭,🌲,🌵,🌶️,🌷,🌸,🌹,🌼,🍋,🍍,🍴,🍽️,🎂,🎃,🎄,🎈,🎉,🎊,🎗️,🎧,🎵,🎶,🎼,🐁,🐇,🐈,🐌,🐒,🐖,🐙,🐝,🐢,🐨,🐭,🐰,🐱,🐵,🐷,🐼,🐽,👁️,👑,👻,👽,👿,💀,💋,💌,💎,💐,💓,💔,💕,💖,💗,💘,💙,💚,💛,💜,💝,💞,💟,💤,💦,💨,💩,💫,💯,📰,🔥,🔮,🕳️,🕶️,🕷️,🖤,😀,😁,😂,😃,😄,😅,😆,😇,😈,😉,😊,😋,😌,😍,😎,😏,😐,😑,😒,😓,😔,😕,😖,😗,😘,😙,😚,😛,😜,😝,😞,😟,😠,😡,😢,😣,😤,😥,😦,😧,😨,😩,😪,😫,😬,😭,😮,😮‍💨,😯,😰,😱,😲,😳,😴,😵,😵‍💫,😶,😶‍🌫️,😷,😸,😹,😺,😻,😼,😽,😾,😿,🙀,🙁,🙂,🙃,🙄,🙈,🙉,🙊,🤍,🤎,🤐,🤑,🤒,🤓,🤔,🤕,🤖,🤗,🤠,🤡,🤢,🤣,🤤,🤥,🤧,🤨,🤩,🤪,🤫,🤬,🤭,🤮,🤯,🥑,🥰,🥱,🥲,🥳,🥴,🥵,🥶,🥸,🥺,🦁,🦂,🦇,🦌,🦔,🦙,🦠,🦥,🧀,🧁,🧐,🧡,🩹,🪄</string>
+    <boolean name="enable_matched_predictions_as_inline_from_crank_cifg" value="true" />
+    <boolean name="improve_get_surrounding_text" value="true" />
+    <string name="fast_access_bar_default_emojis">😂,😘,😀,❤️,😭,😎,🔥,🎉,🙏,👍</string>
+    <boolean name="use_tenor_featured_endpoint_for_content_cache_mapping" value="true" />
+    <boolean name="training_cache_enable_storage_adapter_v3" value="true" />
+    <boolean name="enable_filter_image_search_results" value="true" />
+    <long name="content_suggestion_metadata_ui_timeout_ms" value="2000" />
+    <boolean name="filter_obscured_touch" value="true" />
+    <long name="s3_connection_timeout" value="5000" />
+    <boolean name="enable_popup_view_v2" value="true" />
+    <long name="max_impressions_of_install_bitmoji_card" value="5" />
+    <long name="max_words_predicted" value="3" />
+    <boolean name="nebulae_enable_input_action_collection" value="true" />
+    <float name="gesture_transposition_cost" value="0.0" />
+    <float name="lattice_literals_start_penalty_in_email_input_box" value="6.0" />
+    <long name="nwp_max_words_predicted" value="3" />
+    <string name="fast_access_bar_onboarding_time_diffs_in_seconds"></string>
+    <string name="mozc_superpacks_japanese_language_model_url">https://www.gstatic.com/android/keyboard/mozcpack/mozcdata/2021040609/metadata.json</string>
+    <boolean name="enable_key_border_by_default" value="true" />
+    <long name="tiresias_registration_interval_seconds" value="14400" />
+    <string name="nwp_sanity_check_eval_superpacks_manifest_url"></string>
+    <long name="ngram_language_switching_num_words_used" value="2" />
+    <boolean name="enable_single_word_suggestions_as_inline_from_crank_cifg" value="true" />
+    <string name="transposition_pair_pattern"></string>
+    <boolean name="disable_multiword_autocompletion" value="true" />
+    <string name="enable_tenor_category_v2_for_language_tags">ar,de,en,es,fr,hi,hu,id,it,ja,ko,ms,nl,pt,ru,th,tr,vi,zh-CN,zh-TW</string>
+    <long name="search_hint_start_delay_hours_from_last_click" value="168" />
+    <long name="nga_composing_behavior" value="1" />
+    <boolean name="ngram_language_switching_respect_last_word" value="true" />
+    <boolean name="ignore_sentence_start_for_prediction" value="true" />
+    <string name="tiresias_speech_personalization_supported_model_names"></string>
+    <string name="__bytes__hmm_data_ko">CgJrbxJuEk1odHRwczovL3d3dy5nc3RhdGljLmNvbS9hbmRyb2lkL2tleWJvYXJkL2htbXBhY2sv&#10;MjAxOTA0MTEwOS9rb18yMDE5MDQxMTA5LnppcCDIvZUFOg1rb18yMDE5MDQxMTA5WgcKBSIDCgEq&#10;eAFQ1b7gwgdwAA==&#10;    </string>
+    <float name="replace_frequency_weight" value="0.0" />
+    <long name="search_hint_start_delay_hours_new_user" value="168" />
+    <float name="concept_prediction_triggering_threshold" value="0.57" />
+    <float name="min_lm_score_for_first_key" value="0.0" />
+    <float name="post_correction_spatial_score_threshold_slope" value="-100.0" />
+    <string name="__bytes__urgent_signals">CJjI57IBEgIIARLZIwgBEjwIBRIFYm5fQkQaMQoV4Kam4KeB4Kan4KaX4KeB4Kay4KeLChjgprjg&#10;p43gpqTgpqjgpqbgp4Hgpp/gp4sSPAgFEgVibl9JThoxChXgpqbgp4Hgpqfgppfgp4HgprLgp4sK&#10;GOCmuOCnjeCmpOCmqOCmpuCngeCmn+CnixJDCAUSAmNzGjsKEXBvbHlrw6Fuw60gc2VtZW5lChFw&#10;b2x5a8OhbsOtIHNwZXJtYQoTcG9seWvDoW7DrSBzcGVybWF0dRIlCAUSAmRhGh0KB2tuZXBwZXQK&#10;DW3DpnJrZWxpZyBzZXgKA3BpaxLsAggFEgVlbl9BVRrgAgoMYmlzZXh1YWwgbWVuChJiaXNleHVh&#10;bCB0aHJlZXNvbWUKCmJsYWNrIGRpY2sKBGNvY2sKC2N1bm5pbGluZ3VzCgdmZWxsYXRlCghmZWxs&#10;YXRlZAoIZmVsbGF0aW8KDWdvbGRlbiBzaG93ZXIKD2ludG8gYmxhY2sgZ3V5cwoJbGFwIGRhbmNl&#10;Cg1sZXNiaWFuIGJhYmVzCg1sZXNiaWFuIGdpcmxzCg1sZXNiaWFuIHRlZW5zCgVuaWdnYQoGbmln&#10;Z2VyCgRvcmFsCg1yYWRpY2FsIGlzbGFtCg9yYWRpY2FsIGlzbGFtaWMKBnJldGFyZAoIcmV0YXJk&#10;ZWQKB3JldGFyZHMKDnNpdCBvbiBteSBmYWNlCg1zaXQgb24gbXkgbGFwChBzaXQgb24geW91ciBm&#10;YWNlCg9zaXQgb24geW91ciBsYXAKCnN0aWZmIGNvY2sKCnN0aWZmIGRpY2sS7AIIBRIFZW5fQ0Ea&#10;4AIKDGJpc2V4dWFsIG1lbgoSYmlzZXh1YWwgdGhyZWVzb21lCgpibGFjayBkaWNrCgRjb2NrCgtj&#10;dW5uaWxpbmd1cwoHZmVsbGF0ZQoIZmVsbGF0ZWQKCGZlbGxhdGlvCg1nb2xkZW4gc2hvd2VyCg9p&#10;bnRvIGJsYWNrIGd1eXMKCWxhcCBkYW5jZQoNbGVzYmlhbiBiYWJlcwoNbGVzYmlhbiBnaXJscwoN&#10;bGVzYmlhbiB0ZWVucwoFbmlnZ2EKBm5pZ2dlcgoEb3JhbAoNcmFkaWNhbCBpc2xhbQoPcmFkaWNh&#10;bCBpc2xhbWljCgZyZXRhcmQKCHJldGFyZGVkCgdyZXRhcmRzCg5zaXQgb24gbXkgZmFjZQoNc2l0&#10;IG9uIG15IGxhcAoQc2l0IG9uIHlvdXIgZmFjZQoPc2l0IG9uIHlvdXIgbGFwCgpzdGlmZiBjb2Nr&#10;CgpzdGlmZiBkaWNrEuwCCAUSBWVuX0dCGuACCgxiaXNleHVhbCBtZW4KEmJpc2V4dWFsIHRocmVl&#10;c29tZQoKYmxhY2sgZGljawoEY29jawoLY3VubmlsaW5ndXMKB2ZlbGxhdGUKCGZlbGxhdGVkCghm&#10;ZWxsYXRpbwoNZ29sZGVuIHNob3dlcgoPaW50byBibGFjayBndXlzCglsYXAgZGFuY2UKDWxlc2Jp&#10;YW4gYmFiZXMKDWxlc2JpYW4gZ2lybHMKDWxlc2JpYW4gdGVlbnMKBW5pZ2dhCgZuaWdnZXIKBG9y&#10;YWwKDXJhZGljYWwgaXNsYW0KD3JhZGljYWwgaXNsYW1pYwoGcmV0YXJkCghyZXRhcmRlZAoHcmV0&#10;YXJkcwoOc2l0IG9uIG15IGZhY2UKDXNpdCBvbiBteSBsYXAKEHNpdCBvbiB5b3VyIGZhY2UKD3Np&#10;dCBvbiB5b3VyIGxhcAoKc3RpZmYgY29jawoKc3RpZmYgZGljaxKtAwgFEgVlbl9JThqhAwoMYmlz&#10;ZXh1YWwgbWVuChJiaXNleHVhbCB0aHJlZXNvbWUKCmJsYWNrIGRpY2sKBWNob290CgRjaHV0CgRj&#10;b2NrCgtjdW5uaWxpbmd1cwoHZmVsbGF0ZQoIZmVsbGF0ZWQKCGZlbGxhdGlvCgVnYWFuZAoEZ2Fu&#10;ZAoNZ29sZGVuIHNob3dlcgoPaW50byBibGFjayBndXlzCglsYXAgZGFuY2UKDWxlc2JpYW4gYmFi&#10;ZXMKDWxlc2JpYW4gZ2lybHMKDWxlc2JpYW4gdGVlbnMKBW5pZ2dhCgZuaWdnZXIKBG9yYWwKDXJh&#10;ZGljYWwgaXNsYW0KD3JhZGljYWwgaXNsYW1pYwoGcmV0YXJkCghyZXRhcmRlZAoHcmV0YXJkcwoO&#10;c2l0IG9uIG15IGZhY2UKDXNpdCBvbiBteSBsYXAKEHNpdCBvbiB5b3VyIGZhY2UKD3NpdCBvbiB5&#10;b3VyIGxhcAoKc3RpZmYgY29jawoKc3RpZmYgZGljawoQc3VwcG9ydCBuYXJlbmRyYQoTc3VwcG9y&#10;dCBzdWJyYW1hbmlhbhLsAggFEgVlbl9LRRrgAgoMYmlzZXh1YWwgbWVuChJiaXNleHVhbCB0aHJl&#10;ZXNvbWUKCmJsYWNrIGRpY2sKBGNvY2sKC2N1bm5pbGluZ3VzCgdmZWxsYXRlCghmZWxsYXRlZAoI&#10;ZmVsbGF0aW8KDWdvbGRlbiBzaG93ZXIKD2ludG8gYmxhY2sgZ3V5cwoJbGFwIGRhbmNlCg1sZXNi&#10;aWFuIGJhYmVzCg1sZXNiaWFuIGdpcmxzCg1sZXNiaWFuIHRlZW5zCgVuaWdnYQoGbmlnZ2VyCgRv&#10;cmFsCg1yYWRpY2FsIGlzbGFtCg9yYWRpY2FsIGlzbGFtaWMKBnJldGFyZAoIcmV0YXJkZWQKB3Jl&#10;dGFyZHMKDnNpdCBvbiBteSBmYWNlCg1zaXQgb24gbXkgbGFwChBzaXQgb24geW91ciBmYWNlCg9z&#10;aXQgb24geW91ciBsYXAKCnN0aWZmIGNvY2sKCnN0aWZmIGRpY2sS7AIIBRIFZW5fTkca4AIKDGJp&#10;c2V4dWFsIG1lbgoSYmlzZXh1YWwgdGhyZWVzb21lCgpibGFjayBkaWNrCgRjb2NrCgtjdW5uaWxp&#10;bmd1cwoHZmVsbGF0ZQoIZmVsbGF0ZWQKCGZlbGxhdGlvCg1nb2xkZW4gc2hvd2VyCg9pbnRvIGJs&#10;YWNrIGd1eXMKCWxhcCBkYW5jZQoNbGVzYmlhbiBiYWJlcwoNbGVzYmlhbiBnaXJscwoNbGVzYmlh&#10;biB0ZWVucwoFbmlnZ2EKBm5pZ2dlcgoEb3JhbAoNcmFkaWNhbCBpc2xhbQoPcmFkaWNhbCBpc2xh&#10;bWljCgZyZXRhcmQKCHJldGFyZGVkCgdyZXRhcmRzCg5zaXQgb24gbXkgZmFjZQoNc2l0IG9uIG15&#10;IGxhcAoQc2l0IG9uIHlvdXIgZmFjZQoPc2l0IG9uIHlvdXIgbGFwCgpzdGlmZiBjb2NrCgpzdGlm&#10;ZiBkaWNrEuwCCAUSBWVuX1BIGuACCgxiaXNleHVhbCBtZW4KEmJpc2V4dWFsIHRocmVlc29tZQoK&#10;YmxhY2sgZGljawoEY29jawoLY3VubmlsaW5ndXMKB2ZlbGxhdGUKCGZlbGxhdGVkCghmZWxsYXRp&#10;bwoNZ29sZGVuIHNob3dlcgoPaW50byBibGFjayBndXlzCglsYXAgZGFuY2UKDWxlc2JpYW4gYmFi&#10;ZXMKDWxlc2JpYW4gZ2lybHMKDWxlc2JpYW4gdGVlbnMKBW5pZ2dhCgZuaWdnZXIKBG9yYWwKDXJh&#10;ZGljYWwgaXNsYW0KD3JhZGljYWwgaXNsYW1pYwoGcmV0YXJkCghyZXRhcmRlZAoHcmV0YXJkcwoO&#10;c2l0IG9uIG15IGZhY2UKDXNpdCBvbiBteSBsYXAKEHNpdCBvbiB5b3VyIGZhY2UKD3NpdCBvbiB5&#10;b3VyIGxhcAoKc3RpZmYgY29jawoKc3RpZmYgZGljaxKWAwgFEgVlbl9VUxqKAwoMYmlzZXh1YWwg&#10;bWVuChJiaXNleHVhbCB0aHJlZXNvbWUKCmJsYWNrIGRpY2sKBGNvY2sKC2N1bm5pbGluZ3VzCgdm&#10;ZWxsYXRlCghmZWxsYXRlZAoIZmVsbGF0aW8KGGdsb2JhbCB3YXJtaW5nIGlzIGEgaG9heAoNZ29s&#10;ZGVuIHNob3dlcgoPaW50byBibGFjayBndXlzCglsYXAgZGFuY2UKDWxlc2JpYW4gYmFiZXMKDWxl&#10;c2JpYW4gZ2lybHMKDWxlc2JpYW4gdGVlbnMKBW5pZ2dhCgZuaWdnZXIKBG9yYWwKDXJhZGljYWwg&#10;aXNsYW0KD3JhZGljYWwgaXNsYW1pYwoGcmV0YXJkCghyZXRhcmRlZAoHcmV0YXJkcwoOc2hlJ3Mg&#10;YSB2aXJnaW4KDnNpdCBvbiBteSBmYWNlCg1zaXQgb24gbXkgbGFwChBzaXQgb24geW91ciBmYWNl&#10;Cg9zaXQgb24geW91ciBsYXAKCnN0aWZmIGNvY2sKCnN0aWZmIGRpY2sS7AIIBRIFZW5fWkEa4AIK&#10;DGJpc2V4dWFsIG1lbgoSYmlzZXh1YWwgdGhyZWVzb21lCgpibGFjayBkaWNrCgRjb2NrCgtjdW5u&#10;aWxpbmd1cwoHZmVsbGF0ZQoIZmVsbGF0ZWQKCGZlbGxhdGlvCg1nb2xkZW4gc2hvd2VyCg9pbnRv&#10;IGJsYWNrIGd1eXMKCWxhcCBkYW5jZQoNbGVzYmlhbiBiYWJlcwoNbGVzYmlhbiBnaXJscwoNbGVz&#10;YmlhbiB0ZWVucwoFbmlnZ2EKBm5pZ2dlcgoEb3JhbAoNcmFkaWNhbCBpc2xhbQoPcmFkaWNhbCBp&#10;c2xhbWljCgZyZXRhcmQKCHJldGFyZGVkCgdyZXRhcmRzCg5zaXQgb24gbXkgZmFjZQoNc2l0IG9u&#10;IG15IGxhcAoQc2l0IG9uIHlvdXIgZmFjZQoPc2l0IG9uIHlvdXIgbGFwCgpzdGlmZiBjb2NrCgpz&#10;dGlmZiBkaWNrEkIIBRIGZXNfNDE5GjYKEGN1cmFzIGFidXNhZG9yZXMKEGN1cmFzIHBlZGVyYXN0&#10;YXMKEGN1cmFzIHBlZMOzZmlsb3MSQQgFEgVlc19BUho2ChBjdXJhcyBhYnVzYWRvcmVzChBjdXJh&#10;cyBwZWRlcmFzdGFzChBjdXJhcyBwZWTDs2ZpbG9zEkEIBRIFZXNfRVMaNgoQY3VyYXMgYWJ1c2Fk&#10;b3JlcwoQY3VyYXMgcGVkZXJhc3RhcwoQY3VyYXMgcGVkw7NmaWxvcxJBCAUSBWVzX01YGjYKEGN1&#10;cmFzIGFidXNhZG9yZXMKEGN1cmFzIHBlZGVyYXN0YXMKEGN1cmFzIHBlZMOzZmlsb3MSQQgFEgVl&#10;c19VUxo2ChBjdXJhcyBhYnVzYWRvcmVzChBjdXJhcyBwZWRlcmFzdGFzChBjdXJhcyBwZWTDs2Zp&#10;bG9zEhwIBRIFZnJfQkUaEQoPYXZhbGUgZHUgc3Blcm1lEhwIBRIFZnJfQ0EaEQoPYXZhbGUgZHUg&#10;c3Blcm1lEhwIBRIFZnJfQ0gaEQoPYXZhbGUgZHUgc3Blcm1lEhwIBRIFZnJfRlIaEQoPYXZhbGUg&#10;ZHUgc3Blcm1lEhUIBRICaHIaDQoLdWJpaiBwZWRlcmESHggFEgJpbhoWCgpmb3RvIGJ1Z2lsCghm&#10;b3RvIGhvdBIdCAUSBWl0X0NIGhIKEGluZ29pbyBkaSBzcGVybWESHQgFEgVpdF9JVBoSChBpbmdv&#10;aW8gZGkgc3Blcm1hEh0IBRICaXcaFQoT16TXoNeV15nXlCDXnNeh16fXoRI0CAUSAnBsGiwKBWt1&#10;cnd5CgZtdXJ6eW4KCW11cnp5bsOzdwoEbmFnbwoFcG9ybm8KA3NleBJPCAUSBXB0X0JSGkQKCWFz&#10;c2FuaGFkYQoFZGFuZG8KEm5lZ3JpbmhhIGRlbGljaW9zYQoLbmVndWluaGEgZGEKB25vdmluaGEK&#10;BnNhZmFkYRITCAUSBXJvX1JPGggKBmZ1dHV0ZRIoCAUSBXJ1X0JZGh0KG9Cz0LvQvtGC0LDRgtGM&#10;INGB0L/QtdGA0LzRgxIoCAUSBXJ1X0tHGh0KG9Cz0LvQvtGC0LDRgtGMINGB0L/QtdGA0LzRgxIo&#10;CAUSBXJ1X1JVGh0KG9Cz0LvQvtGC0LDRgtGMINGB0L/QtdGA0LzRgxIlCAUSAnVrGh0KG9C60L7Q&#10;stGC0LDRgtC4INGB0L/QtdGA0LzRgw==&#10;    </string>
+    <string name="app_completions"></string>
+    <boolean name="native_language_hint_by_sim_country" value="true" />
+    <boolean name="enable_tenor_autocomplete_trending_type" value="true" />
+    <string name="agsa_link_suggestion_mapping"></string>
+    <long name="hmm_superpacks_manifest_version" value="2021011204" />
+    <long name="profiling_freq_ms_parse_input_context" value="1" />
+    <long name="sticker_pack_similarity_superpacks_manifest_version" value="2020081200" />
+    <boolean name="call_ic_from_background" value="true" />
+    <string name="expressive_stickers_http_base_url"></string>
+    <boolean name="enable_japanese_landscape_qwerty" value="true" />
+    <long name="profiling_freq_ms_decode_touch" value="1" />
+    <string name="expressive_stickers_api_key">AIzaSyBPSAFlv3zpgK1jCJhlmNwl9NoAuhL-AKc</string>
+    <boolean name="silk_theme" value="true" />
+    <boolean name="enable_search_hint_in_gsa" value="true" />
+    <boolean name="enable_romanized_indic_voice_promo" value="true" />
+    <string name="fast_access_bar_offboarding_time_diffs_in_seconds"></string>
+    <boolean name="enable_tenor_zwieback_logging" value="true" />
+    <boolean name="preload_sticker_pack_similarity" value="true" />
+    <boolean name="enable_handwriting_lstm" value="true" />
+    <string name="emoji_predictor_supported_language_tags">en</string>
+    <string name="app_completion_whitelist">com.google.android.apps.maps*,com.google.android.apps.gmm*,com.google.android.googlequicksearchbox*,com.google.android.apps.nexuslauncher*</string>
+    <long name="disable_ac_capitalized_char_num_threshold" value="1" />
+    <float name="spatial_kernel_param" value="4.0" />
+    <boolean name="enable_multiword_predictions_from_user_history" value="true" />
+    <float name="default_gesture_spatial_score_scale" value="0.8" />
+    <boolean name="enable_get_bitmoji_card" value="true" />
+    <boolean name="enable_matrializer_manager" value="true" />
+    <float name="emotion_model_triggering_threshold" value="0.05" />
+    <boolean name="use_criteria_parser_v2" value="true" />
+    <boolean name="enable_voice_in_handwriting" value="true" />
+    <string name="s3_experiment_recognizer_routing_key">gboard_experimental_rnnt</string>
+    <boolean name="disable_secondary_lms_in_gsa" value="true" />
+    <boolean name="enable_device_intelligence" value="true" />
+    <long name="c2q_superpacks_manifest_version_zh_tw" value="1" />
+    <float name="regular_candidate_language_score_threshold_slope" value="0.0" />
+    <string name="federatedc2q_models_metadata_uri">https://www.gstatic.com/android/keyboard/modelpack/federatedc2q/superpacks_manifest_20190827.json</string>
+    <boolean name="fast_access_bar_internal_dialog_enabled" value="true" />
+    <float name="sticker_pack_recommendations_score_threshold" value="0.0" />
+    <long name="mwp_context_length_threshold" value="1" />
+    <boolean name="enable_contextual_gif_search_query_suggestion" value="true" />
+    <long name="num_buffered_input_context_copies" value="1" />
+    <boolean name="enable_concept_prediction_engine" value="true" />
+    <string name="expressive_concept_superpacks_manifest_url">https://www.gstatic.com/android/keyboard/modelpack/expressive_concepts/2020031023/superpacks_manifest.json</string>
+</map>
