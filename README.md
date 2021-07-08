@@ -70,7 +70,9 @@ HAL3 version enables the following for budget smartphones:
 - **Camera 2 API Level 3** 
 - **Google Play Services for AR  and Playground(AR Stickers)**. (becomes installable via playstore in budget range smartphones)
 
-Click on `Assets` to show the files available in the release and then  `PixelFeatureDrops-HAL3` to download the flashable zip.
+#### Xiaomi Version 
+For Xiaomi devices with pop up camera
+Click on `Assets` to show the files available in the release and then  `PixelFeatureDrops-Xiaomi` to download the flashable zip.
 
 
 ## Sidenotes:
@@ -79,8 +81,14 @@ Click on `Assets` to show the files available in the release and then  `PixelFea
 **Issue** : features not enabling.  
 **Solution** : Use Custom ROM which are AOSP based with pixel's system UI (preferably gapps build).
 
+## Camera Popping out during boot :
+
+**Issue** : Camera Popping out during boot on Xiaomi devices with pop up cameras.  
+**Solution** : Use  `PixelFeatureDrops-Xiaomi` from release.
+
+
 ## Face Enrolment :
-**Issue**: Enrollment not working because of errors with camera ( front camera not working during enrollment or switching to back camera )  
+**Issue**: Enrollment not working because of errors with camera ( front camera not working during enrollment or switching to back camera in certain devices )  
 **Solution** : Enroll your face for face unlock before flashing the module.
 
 ## Playstore system Update :
