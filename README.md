@@ -23,7 +23,7 @@ PixelFeatureDrops is a magisk module to enables most of the latest Google Pixel 
 | **Google Fit heart and respiratory monitoring** | Enables by itself in Google Fit Over WiFi | Available since March.Heart and Respiratory rate measurements.|
 | **Adaptive Sound**       | Open your phone's Settings app.Tap Sound & vibration And then Adaptive Sound.Turn on Adaptive Sound.| Available since December.Working with all devices since March release.|
 | **Adaptive Charging** | Open your phone's Settings app.Tap Battery And then Adaptive Battery.Turn on Adaptive Charging. | |
-|**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean the Google app's data,  thereby launching assistant will ask for the download of additional update to enable the new assistant.For Continued Coversation open the Google app.Tap More And Settings And Google Assistant And Assistant And Continued Conversation.Turn on the toggle for phone. | If NGAResources are missing then flash the [PixelFeatureDrops+NGAResouces][github-release-link].If *Google assistant compact UI not showing* then set the language of the assistant to English(United States) and English(United States) only.The new google assistant doesn't have bilingual functionality yet unless both those languages are supported.|
+|**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean the Google app's data,  thereby launching assistant will ask for the download of additional update to enable the new assistant.For Continued Coversation open the Google app.Tap More And Settings And Google Assistant And Assistant And Continued Conversation.Turn on the toggle for phone. | If NGAResources are missing then install the [NGAResouces](https://github.com/ayush5harma/PixelFeatureDrops/releases/download/v06052021/NgaResources.apk).If *Google assistant compact UI not showing* then set the language of the assistant to English(United States) and English(United States) only.The new google assistant doesn't have bilingual functionality yet unless both those languages are supported.|
 |**Google Photos portrait filter**|Take portrait shot with human face and open it for edit inside google photos app.| |
 |**Google Duo portrait mode, autoframing during video calls and screen sharing in group calls**|Enables by itself and available during videocall as option bubble| |
 |**Live Caption Improvements**     | Open your phone's Settings app.Tap Sound & vibration And Live Caption.Turn on Live Caption   |   Improvements since December |
@@ -62,8 +62,8 @@ Note: Tap Directions, make sure you’re on the walking tab, and you should see 
 Check the security patch level of your custom ROMs and head to corresponding MonthlyPatch in the [PixelFeatureDrops Releases][github-release-link]. Click on `Assets` to show the files available in the release and then click on `PixelFeatureDrops` to download the flashable zip.  
 ( Security patch date can be viewed via settings under About Phone by tapping Android Version  )
 
-#### NGA Resources version
-New Google Assistant resources app is required to download additional resources to enable the Google Assistant 2.It is mostly available in the gapps build of custom ROMs already but in some cases it is not so.This flashable is for such cases. Click on `Assets` to show the files available in the release and then  `PixelFeatureDrops+NGAResources` to download the flashable zip.
+#### NGA Resources 
+New Google Assistant resources app is required to download additional resources to enable the Google Assistant 2.It is mostly available in the gapps build of custom ROMs already but in some cases it is not so. In such cases install it from [here](https://github.com/ayush5harma/PixelFeatureDrops/releases/download/v06052021/NgaResources.apk).
 
 #### HAL3 Version 
 HAL3 version enables the following for budget smartphones:
@@ -78,10 +78,6 @@ Click on `Assets` to show the files available in the release and then  `PixelFea
 ## Unsupported CustomROM : 
 **Issue** : features not enabling.  
 **Solution** : Use Custom ROM which are AOSP based with pixel's system UI (preferably gapps build).
-
-## No UI for Google Assistant 2.0 :  
-**Issue** : Customised Pixel launcher and navbars shipped with custom ROMs such as shady launcher variants of pixel launcher with app lock, icon packs, double tap to sleep and replaced navbar to provide 2 button gesture and customisation of the pill.Modified pixel launcher removes the UI completely while modified navbar removed the glow as these only worked with stock files.  
-**Solution** : Use the [Pixel Launcher port from Pixel 5](https://forum.xda-developers.com/t/magisk-pixel-launcher-for-android-11.4213619/) if not provided with ROM.4
 
 ## Face Enrolment :
 **Issue**: Enrollment not working because of errors with camera ( front camera not working during enrollment or switching to back camera )  
