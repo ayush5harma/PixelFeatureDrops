@@ -12,7 +12,7 @@
 PixelFeatureDrops is a magisk module to enables most of the latest Google Pixel feature drops on devices running on android custom ROMs with pixel's system UI.
 
 
-*The following features enable on an AOSP custom ROM using pixel's system UI with gapps installed post module installation.*
+*After module installation, the following features enable on an AOSP custom ROM using pixel's system UI with gapps installed.*
 
 
 | Feature Drop  | Steps to enable      | Sidenote  |
