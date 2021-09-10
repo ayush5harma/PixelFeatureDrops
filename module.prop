@@ -1,6 +1,6 @@
 id=PixelFeatureDrop
 name=PixelFeatureDrop
-version=JulyPatch
-versionCode=07052021
+version=SeptemberPatch
+versionCode=09052021
 author=ayush5harma
 description=Enables most of the latest Google feature drops on devices running on android custom ROMs with pixel's system UI.
