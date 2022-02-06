@@ -36,7 +36,7 @@ PixelFeatureDrops is a magisk module to enables most of the latest Google Pixel 
 
 *The following features have not been tested but should enable themselves in countries where they are rolled out by Google*
 
-- **Call Screen ,Hold For Me and other features powered by Google's Duplex Technology** in countries where it is rolled out. (enables by itself)  
+- **Call Screen, Hold For Me and other features powered by Google's Duplex Technology** in countries where it is rolled out. (enables by itself)  
 Note: If not shown by itself in countries with this feature is rolled out, try clearing dialer data and then tap inside dialer settings And Call screen to download resource and enable. 
 
 - **AR Mode in google maps** in countries where it's available. (enables by itself)  
@@ -60,10 +60,10 @@ Note: Tap Directions, make sure you’re on the walking tab, and you should see 
 #### Default version
 
 Check the security patch level of your custom ROMs and head to corresponding MonthlyPatch in the [PixelFeatureDrops Releases][github-release-link]. Click on `Assets` to show the files available in the release and then click on `PixelFeatureDrops` to download the flashable zip.  
-( Security patch date can be viewed via settings under About Phone by tapping Android Version  )
+(Security patch date can be viewed via settings under About Phone by tapping Android Version)
 
 #### NGA Resources 
-New Google Assistant resources app is required to download additional resources to enable the Google Assistant 2.It is mostly available in the gapps build of custom ROMs already but in some cases it is not so. In such cases install it from [here](https://github.com/ayush5harma/PixelFeatureDrops/releases/download/v06052021/NgaResources.apk).
+New Google Assistant resources app is required to download additional resources to enable the Google Assistant 2. It is mostly available in the gapps build of custom ROMs already but in some cases it is not so. In such cases install it from [here](https://github.com/ayush5harma/PixelFeatureDrops/releases/download/v06052021/NgaResources.apk).
 
 #### HAL3 Version 
 HAL3 version enables the following for budget smartphones:
