@@ -18,19 +18,19 @@ PixelFeatureDrops is a magisk module to enables most of the latest Google Pixel 
 | Feature Drop  | Steps to enable      | Sidenote  |
 | ------------- |:-------------:| -----:|
 | **Unlimited Google Photos Storage** | Clear photos app data. While choosing backup option, choose high quality option. *All **uploads from phone** won't be counted against the google storage quota*. | Free and unlimited Backup in high quality post 1st June policy changes. |
-| **Shareable Recorder** | Enables by itself using Recorder app enables automatic backup to Google Drive, and access through a new recorder.google.com web app. | Available since March.Works in English only |
-| **Gboard Smart Compose** | Enables by itself using GBoard in selected messaging Apps. | Available since March.Works when set to English(US) only. |
+| **Shareable Recorder** | Enables by itself using Recorder app enables automatic backup to Google Drive, and access through a new recorder.google.com web app. | Available since March. Works in English only |
+| **Gboard Smart Compose** | Enables by itself using GBoard in selected messaging Apps. | Available since March.Works when set to English (US) only. |
 | **Google Fit heart and respiratory monitoring** | Enables by itself in Google Fit Over WiFi | Available since March.Heart and Respiratory rate measurements.|
-| **Adaptive Sound**       | Open your phone's Settings app.Tap Sound & vibration And then Adaptive Sound.Turn on Adaptive Sound.| Available since December.Working with all devices since March release.|
-| **Adaptive Charging** | Open your phone's Settings app.Tap Battery And then Adaptive Battery.Turn on Adaptive Charging. | |
-|**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English(US) or English (UK).After installing module, clean the Google app's data,  thereby launching assistant will ask for the download of additional update to enable the new assistant.For Continued Coversation open the Google app.Tap More And Settings And Google Assistant And Assistant And Continued Conversation.Turn on the toggle for phone. | If NGAResources are missing then install the [NGAResources](https://github.com/ayush5harma/PixelFeatureDrops/releases/download/v06052021/NgaResources.apk).If *Google assistant compact UI not showing* then set the language of the assistant to English(United States) and English(United States) only.The new google assistant doesn't have bilingual functionality yet unless both those languages are supported.|
+| **Adaptive Sound**       | Open your phone's Settings app. Tap Sound & vibration And then Adaptive Sound. Turn on Adaptive Sound.| Available since December. Working with all devices since March release.|
+| **Adaptive Charging** | Open your phone's Settings app. Tap Battery And then Adaptive Battery. Turn on Adaptive Charging. | |
+|**Google Assistant 2.0 with Continued Conversation**|Make sure system language is set to English (US) or English (UK). After installing module, clean the Google app's data, thereby launching assistant will ask for the download of additional update to enable the new assistant. For Continued Coversation open the Google app. Tap More And Settings And Google Assistant And Assistant And Continued Conversation. Turn on the toggle for phone. | If NGAResources are missing then install the [NGAResources](https://github.com/ayush5harma/PixelFeatureDrops/releases/download/v06052021/NgaResources.apk).If *Google assistant compact UI not showing* then set the language of the assistant to English(United States) and English(United States) only.The new google assistant doesn't have bilingual functionality yet unless both those languages are supported.|
 |**Google Photos portrait filter**|Take portrait shot with human face and open it for edit inside google photos app.| |
 |**Google Duo portrait mode, autoframing during video calls and screen sharing in group calls**|Enables by itself and available during videocall as option bubble| |
-|**Live Caption Improvements**     | Open your phone's Settings app.Tap Sound & vibration And Live Caption.Turn on Live Caption   |   Improvements since December |
-|**Flip to Silence** | Open Google Phone app.Tap Settings And Advanced And Flip to Silence.Turn on Flip to Silence |  |
+|**Live Caption Improvements**     | Open your phone's Settings app. Tap Sound & vibration And Live Caption. Turn on Live Caption   |   Improvements since December |
+|**Flip to Silence** | Open Google Phone app. Tap Settings And Advanced And Flip to Silence. Turn on Flip to Silence |  |
 |**Rampant Ringer**|Open your phone's Settings app.Tap Sound & vibration And Vibration.Choose First Vibrate then ring gradually| |
 |**UI overhaul for core google and some other apps**|Enables by itself such as gboard consistent new design, dark mode in google maps, docs, sheets, slides, playbooks etc | |
-|**Pokémon Sidekick and The Mandalorian wallpapers**|Shown in Come Alive and other sections in  Styles and Wallpapers in PE and PE Plus |There are [ports](https://forum.xda-developers.com/m/pranav-pandey.3962236/#recent-content) of the same on XDA by recognized developer Pranav Panday|  
+|**Pokémon Sidekick and The Mandalorian wallpapers**|Shown in Come Alive and other sections in Styles and Wallpapers in PE and PE Plus |There are [ports](https://forum.xda-developers.com/m/pranav-pandey.3962236/#recent-content) of the same on XDA by recognized developer Pranav Panday|  
 |**Now Playing Playlist export**|In your Now Playing history, you can select the songs you saved and export them to a playlist in YouTube Music.|	Install [Pixel Ambient Services ](https://play.google.com/store/apps/details?id=com.google.intelligence.sense&hl=en_IN&gl=US) if not present from playstore|
 
 
@@ -78,7 +78,7 @@ Click on `Assets` to show the files available in the release and then  `PixelFea
 ## Sidenotes:
 
 ## Unsupported CustomROM : 
-**Issue** : features not enabling.  
+**Issue** : Features not enabling.  
 **Solution** : Use Custom ROM which are AOSP based with pixel's system UI (preferably gapps build).
 
 ## Camera Popping out during boot :
@@ -88,12 +88,12 @@ Click on `Assets` to show the files available in the release and then  `PixelFea
 
 
 ## Face Enrolment :
-**Issue**: Enrollment not working because of errors with camera ( front camera not working during enrollment or switching to back camera in certain devices )  
+**Issue**: Enrollment not working because of errors with camera (front camera not working during enrollment or switching to back camera in certain devices)  
 **Solution** : Enroll your face for face unlock before flashing the module.
 
 ## Playstore system Update :
 **Issue** : Unable to install playstore system update.  
-**Solution** : Disable the module then reboot and then install the playstore system update after which re- enable the module from magisk folowed by a reboot.
+**Solution** : Disable the module then reboot and then install the playstore system update after which re-enable the module from magisk folowed by a reboot.
 
 ## Safetynet:   
 **Issue** : Safetynet fails.  
@@ -110,18 +110,18 @@ If using edxposed also follow the below steps to ensure that the safetynet passe
 - Turn on riru hide mechanism by creating empty file *enable_hide* inside /data/adb/riru and reboot. Use riru apk to cross-check if hide is enabled.  
 
 ## Aux Lenses:  
-**Issue** : Can't detect /switch to aux lenses.  
+**Issue** : Can't detect / switch to aux lenses.  
 **Solution** : 
 If you are using gcam port try loading appropriate config file for the gcam you are using.  
-If you're using miui cam port or any other port which checks for device fingerprint you have to spoof the device fingerprint for that camera app using edxposed module (https://github.com/ikws4/WeiJu) to make it work (you may check video here [#10](https://github.com/ayush5harma/PixelFeatureDrops/issues/10#issuecomment-701601857)  and can get these variable values from your stock build.prop file.)
+If you are using miui cam port or any other port which checks for device fingerprint you have to spoof the device fingerprint for that camera app using edxposed module (https://github.com/ikws4/WeiJu) to make it work (you may check video here [#10](https://github.com/ayush5harma/PixelFeatureDrops/issues/10#issuecomment-701601857)  and can get these variable values from your stock build.prop file.)
 
 ## HAL 3 :   
 **Issue** : Playstore not listing AR services.  
-**Solution** : clear playstore data
+**Solution** : Clear playstore data
 
 ## Credits :
 
-The system files and prop values are taken and updated from android dump at  https://git.rip/dumps/google/redfin .  
+The system files and prop values are taken and updated from android dump at https://git.rip/dumps/google/redfin .  
 
 
 
